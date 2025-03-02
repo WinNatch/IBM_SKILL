@@ -1,0 +1,2411 @@
+Job Role,Skill,Percentage
+accountant,Regression,100.0
+accountant,Sustainability,100.0
+accountant,Tableau,100.0
+accountant,Pattern,100.0
+accountant,Hadoop,100.0
+accountant,Matrix,100.0
+accountant,Excel,100.0
+accountant,Ethics,100.0
+accountant,Google Cloud,100.0
+accountant,Snowflake,100.0
+accountant accountant,R,100.0
+accountant accountant,Excel,100.0
+accountant accountant,GAN,100.0
+accountant accountant,account,30.88
+accountant accountant,financial,16.18
+accountant accountant,tax,9.3
+accountant accountant,general,7.07
+accountant accountant,ledger,7.04
+accountant accountant,report,6.76
+accountant accountant,general ledger,6.55
+accountant accountant manager,R,100.0
+accountant accountant manager,Excel,100.0
+accountant accountant manager,account,23.82
+accountant accountant manager,general ledger,11.19
+accountant accountant manager,receivable,11.07
+accountant accountant manager,payable,10.84
+accountant accountant manager,account payable,10.84
+accountant accountant manager,ledger,10.62
+accountant accountant manager,general,8.24
+accountant accountant manager,bank,7.98
+accountant administrator,R,100.0
+accountant administrator,company,17.76
+accountant administrator,package,13.14
+accountant administrator,part,9.7
+accountant administrator,tax,9.55
+accountant administrator,financial,9.39
+accountant administrator,annual,9.34
+accountant administrator,communication,8.64
+accountant administrator,report,8.21
+accountant administrator,verbal communication,7.23
+accountant analyst,Sustainability,100.0
+accountant analyst,R,100.0
+accountant analyst,Tableau,100.0
+accountant analyst,Matrix,100.0
+accountant analyst,SQL,100.0
+accountant analyst,Excel,100.0
+accountant analyst,GAN,100.0
+accountant analyst,account,25.15
+accountant analyst,financial,14.39
+accountant analyst,analysis,14.26
+accountant auditor,R,100.0
+accountant auditor,AWS,100.0
+accountant auditor,GAN,100.0
+accountant auditor,SQL,100.0
+accountant auditor,Excel,100.0
+accountant auditor,Ethics,100.0
+accountant auditor,account,27.22
+accountant auditor,financial,14.14
+accountant auditor,audit,12.41
+accountant auditor,principles,9.66
+accountant auditor manager,R,100.0
+accountant auditor manager,SAS,100.0
+accountant auditor manager,audit,26.59
+accountant auditor manager,account,12.5
+accountant auditor manager,license,10.7
+accountant auditor manager,compliance,9.16
+accountant auditor manager,grant,7.29
+accountant auditor manager,outside,7.29
+accountant auditor manager,bachelor degree account,6.84
+accountant auditor manager,degree account,6.73
+accountant banking,R,100.0
+accountant banking,Excel,100.0
+accountant banking,GAN,100.0
+accountant banking,account,17.3
+accountant banking,account finance,13.63
+accountant banking,financial,13.1
+accountant banking,finance,10.08
+accountant banking,general ledger,8.13
+accountant banking,ledger,7.71
+accountant banking,gaap,7.71
+accountant consultant,R,100.0
+accountant consultant,Excel,100.0
+accountant consultant,account,29.97
+accountant consultant,financial,14.7
+accountant consultant,statements,9.09
+accountant consultant,account financial,7.79
+accountant consultant,gaap,7.64
+accountant consultant,financial statements,7.42
+accountant consultant,report,6.8
+accountant consultant,record,5.93
+accountant data,R,100.0
+accountant data,SQL,100.0
+accountant data,Excel,100.0
+accountant data,data,36.99
+accountant data,reconciliation,11.07
+accountant data,data analysis,10.0
+accountant data,analysis,8.8
+accountant data,clean,6.37
+accountant data,business management,6.04
+accountant data,management customer service,5.42
+accountant data analyst,R,100.0
+accountant data analyst,Python,100.0
+accountant data analyst,SQL,100.0
+accountant data analyst,Excel,100.0
+accountant data analyst,data,14.92
+accountant data analyst,account,14.46
+accountant data analyst,data analysis,13.11
+accountant data analyst,analysis,11.53
+accountant data analyst,excel,8.74
+accountant data analyst,meet deadlines,7.66
+accountant manager,R,100.0
+accountant manager,Power BI,100.0
+accountant manager,AWS,100.0
+accountant manager,GAN,100.0
+accountant manager,SQL,100.0
+accountant manager,Excel,100.0
+accountant manager,Ethics,100.0
+accountant manager,account,28.96
+accountant manager,tax,14.43
+accountant manager,financial,14.2
+accountant marketing,R,100.0
+accountant marketing,GAN,100.0
+accountant marketing,Excel,100.0
+accountant marketing,account,29.9
+accountant marketing,report,10.55
+accountant marketing,budget,9.19
+accountant marketing,financial report,8.62
+accountant marketing,financial,8.05
+accountant marketing,general ledger,7.49
+accountant marketing,gaap,7.11
+accountant sales,R,100.0
+accountant sales,AWS,100.0
+accountant sales,GAN,100.0
+accountant sales,tax,40.31
+accountant sales,account,9.97
+accountant sales,inventory,8.87
+accountant sales,account finance,7.86
+accountant sales,sales,6.55
+accountant sales,audit,6.36
+accountant sales,finance,5.81
+administrator,Regression,100.0
+administrator,Sustainability,100.0
+administrator,Tableau,100.0
+administrator,SVM,100.0
+administrator,Pattern,100.0
+administrator,Hadoop,100.0
+administrator,Matrix,100.0
+administrator,TensorFlow,100.0
+administrator,Django,100.0
+administrator,MongoDB,100.0
+administrator accountant,R,100.0
+administrator accountant,Power BI,100.0
+administrator accountant,Excel,100.0
+administrator accountant,account,16.71
+administrator accountant,contract,13.61
+administrator accountant,project,11.58
+administrator accountant,financial,10.12
+administrator accountant,management,9.27
+administrator accountant,report,8.85
+administrator accountant,administration,8.1
+administrator administrator,R,100.0
+administrator administrator,MySQL,100.0
+administrator administrator,SQL,100.0
+administrator administrator,Excel,100.0
+administrator administrator,GAN,100.0
+administrator administrator,database,24.19
+administrator administrator,oracle,12.69
+administrator administrator,customer,8.54
+administrator administrator,sql,8.35
+administrator administrator,data,8.27
+administrator analyst,R,100.0
+administrator analyst,Tableau,100.0
+administrator analyst,Azure,100.0
+administrator analyst,Excel,100.0
+administrator analyst,GAN,100.0
+administrator analyst,Ethics,100.0
+administrator analyst,security,14.42
+administrator analyst,dod,10.28
+administrator analyst,security clearance,10.22
+administrator analyst,operations,9.97
+administrator banking,R,100.0
+administrator banking,loan,11.62
+administrator banking,payment,11.62
+administrator banking,trade,10.97
+administrator banking,cash,10.64
+administrator banking,reconciliation,10.56
+administrator banking,management systems,10.48
+administrator banking,check,9.65
+administrator banking,english,9.06
+administrator banking,process,7.71
+administrator banking data,R,100.0
+administrator banking data,Excel,100.0
+administrator banking data,data,11.08
+administrator banking data,communication attention,10.47
+administrator banking data,communication attention detail,10.47
+administrator banking data,office excel,10.33
+administrator banking data,visual,10.26
+administrator banking data,accuracy,9.85
+administrator banking data,bank,9.6
+administrator banking data,ms office,9.6
+administrator consultant,R,100.0
+administrator consultant,GAN,100.0
+administrator consultant,network,17.74
+administrator consultant,windows,15.67
+administrator consultant,server,14.74
+administrator consultant,support,8.85
+administrator consultant,certifications,7.89
+administrator consultant,document,7.73
+administrator consultant,troubleshoot,7.1
+administrator consultant,microsoft,6.95
+administrator data,R,100.0
+administrator data,Tableau,100.0
+administrator data,Python,100.0
+administrator data,AWS,100.0
+administrator data,SQL,100.0
+administrator data,SAS,100.0
+administrator data,GAN,100.0
+administrator data,data,24.21
+administrator data,storage,15.78
+administrator data,procedures,13.03
+administrator data manager,R,100.0
+administrator data manager,Tableau,100.0
+administrator data manager,SQL,100.0
+administrator data manager,experience communication,11.58
+administrator data manager,data,10.72
+administrator data manager,management system,10.59
+administrator data manager,relevant,10.51
+administrator data manager,clearance,9.99
+administrator data manager,metrics,9.99
+administrator data manager,databases,9.65
+administrator designer,R,100.0
+administrator designer,SQL,100.0
+administrator designer,autocad,15.32
+administrator designer,iso,15.17
+administrator designer,communication microsoft,13.25
+administrator designer,control,9.53
+administrator designer,sql,9.48
+administrator designer,microsoft office,8.35
+administrator designer,office,7.75
+administrator designer,report,7.65
+administrator developer,Tableau,100.0
+administrator developer,Hadoop,100.0
+administrator developer,Ethics,100.0
+administrator developer,Snowflake,100.0
+administrator developer,AWS,100.0
+administrator developer,SQL,100.0
+administrator developer,R,100.0
+administrator developer,Power BI,100.0
+administrator developer,MySQL,100.0
+administrator developer,SAS,100.0
+administrator manager,R,100.0
+administrator manager,Excel,100.0
+administrator manager,GAN,100.0
+administrator manager,contract,18.27
+administrator manager,management,12.0
+administrator manager,grant,11.64
+administrator manager,administration,11.46
+administrator manager,construction,9.73
+administrator manager,public,9.25
+administrator manager,procurement,7.88
+administrator operator,R,100.0
+administrator operator,Excel,100.0
+administrator operator,GAN,100.0
+administrator operator,operations,12.77
+administrator operator,shift,12.66
+administrator operator,safety,10.39
+administrator operator,word excel,10.32
+administrator operator,ms office,9.8
+administrator operator,outlook,9.55
+administrator operator,experience,9.05
+administrator programmer,R,100.0
+administrator programmer,SQL,100.0
+administrator programmer,sql,24.93
+administrator programmer,framework,17.55
+administrator programmer,javascript,16.1
+administrator programmer,server,15.57
+administrator programmer,database,13.88
+administrator programmer,tool,11.97
+administrator programmer,permit,0.0
+administrator programmer,periods,0.0
+administrator researcher,R,100.0
+administrator researcher,GAN,100.0
+administrator researcher,communication,13.42
+administrator researcher,proficiency,12.23
+administrator researcher,management,11.14
+administrator researcher,experience,10.61
+administrator researcher,sales,10.12
+administrator researcher,market,9.64
+administrator researcher,market research,9.27
+administrator researcher,software,9.07
+analyst,Regression,100.0
+analyst,Sustainability,100.0
+analyst,Tableau,100.0
+analyst,chatbot,100.0
+analyst,Pattern,100.0
+analyst,Hadoop,100.0
+analyst,Principal Component Analysis,100.0
+analyst,Matrix,100.0
+analyst,TensorFlow,100.0
+analyst,Open source,100.0
+analyst accountant,R,100.0
+analyst accountant,Excel,100.0
+analyst accountant,GAN,100.0
+analyst accountant,account,21.64
+analyst accountant,financial,16.03
+analyst accountant,analysis,10.36
+analyst accountant,report,8.91
+analyst accountant,finance,8.41
+analyst accountant,project,7.5
+analyst accountant,audit,7.37
+analyst administrator,R,100.0
+analyst administrator,GAN,100.0
+analyst administrator,SQL,100.0
+analyst administrator,Excel,100.0
+analyst administrator,Ethics,100.0
+analyst administrator,contract,25.9
+analyst administrator,administration,11.55
+analyst administrator,management,11.02
+analyst administrator,communication organizational,9.23
+analyst administrator,payment,7.9
+analyst analyst,Regression,100.0
+analyst analyst,Tableau,100.0
+analyst analyst,Pattern,100.0
+analyst analyst,Excel,100.0
+analyst analyst,Snowflake,100.0
+analyst analyst,Jupyter,100.0
+analyst analyst,MATLAB,100.0
+analyst analyst,Cybersecurity,100.0
+analyst analyst,AWS,100.0
+analyst analyst,Pandas,100.0
+analyst analyst accountant,R,100.0
+analyst analyst accountant,account,13.46
+analyst analyst accountant,financial statements,11.66
+analyst analyst accountant,budget forecast,10.69
+analyst analyst accountant,supervision,10.52
+analyst analyst accountant,tax,10.36
+analyst analyst accountant,statements,10.21
+analyst analyst accountant,mentor,9.26
+analyst analyst accountant,forecast,8.69
+analyst analyst accountant,budget,7.76
+analyst analyst auditor,R,100.0
+analyst analyst auditor,cpa,14.65
+analyst analyst auditor,financial report,14.03
+analyst analyst auditor,mentor,13.39
+analyst analyst auditor,audit,12.42
+analyst analyst auditor,leadership,10.59
+analyst analyst auditor,financial,9.83
+analyst analyst auditor,account,9.73
+analyst analyst auditor,report,8.59
+analyst analyst auditor,communication,6.78
+analyst auditor,Python,100.0
+analyst auditor,R,100.0
+analyst auditor,Ethics,100.0
+analyst auditor,GAN,100.0
+analyst auditor,SQL,100.0
+analyst auditor,Excel,100.0
+analyst auditor,audit,27.27
+analyst auditor,quality,12.17
+analyst auditor,medical,10.55
+analyst auditor,certify,10.08
+analyst banking,R,100.0
+analyst banking,IBM,100.0
+analyst banking,Power BI,100.0
+analyst banking,Ethics,100.0
+analyst banking,GAN,100.0
+analyst banking,SQL,100.0
+analyst banking,Excel,100.0
+analyst banking,financial,17.74
+analyst banking,analysis,15.76
+analyst banking,model,10.76
+analyst consultant,Tableau,100.0
+analyst consultant,Excel,100.0
+analyst consultant,Google Cloud,100.0
+analyst consultant,AWS,100.0
+analyst consultant,SQL,100.0
+analyst consultant,R,100.0
+analyst consultant,Python,100.0
+analyst consultant,Azure,100.0
+analyst consultant,Power BI,100.0
+analyst consultant,PostgreSQL,100.0
+analyst data,Regression,100.0
+analyst data,Sustainability,100.0
+analyst data,Tableau,100.0
+analyst data,Pattern,100.0
+analyst data,Hadoop,100.0
+analyst data,Matrix,100.0
+analyst data,TensorFlow,100.0
+analyst data,MongoDB,100.0
+analyst data,Excel,100.0
+analyst data,Spark,100.0
+analyst data analyst,R,100.0
+analyst data analyst,Tableau,100.0
+analyst data analyst,Snowflake,100.0
+analyst data analyst,SQL,100.0
+analyst data analyst,Excel,100.0
+analyst data analyst,GAN,100.0
+analyst data analyst,data,27.63
+analyst data analyst,analysis,15.19
+analyst data analyst,business,9.24
+analyst data analyst,sql,9.11
+analyst designer,R,100.0
+analyst designer,adobe,100.0
+analyst designer,user,23.06
+analyst designer,web,19.54
+analyst designer,certification,9.6
+analyst designer,project management,7.26
+analyst designer,management,7.2
+analyst designer,adobe,7.01
+analyst designer,principles,6.79
+analyst designer,project,6.75
+analyst developer,Regression,100.0
+analyst developer,Tableau,100.0
+analyst developer,chatbot,100.0
+analyst developer,Pattern,100.0
+analyst developer,TensorFlow,100.0
+analyst developer,Excel,100.0
+analyst developer,Ethics,100.0
+analyst developer,BigQuery,100.0
+analyst developer,AWS,100.0
+analyst developer,SQL,100.0
+analyst manager,Tableau,100.0
+analyst manager,Excel,100.0
+analyst manager,Ethics,100.0
+analyst manager,MATLAB,100.0
+analyst manager,adobe,100.0
+analyst manager,SQL,100.0
+analyst manager,R,100.0
+analyst manager,IBM,100.0
+analyst manager,Python,100.0
+analyst manager,Azure,100.0
+analyst marketing,Regression,100.0
+analyst marketing,Tableau,100.0
+analyst marketing,Hadoop,100.0
+analyst marketing,GAN,100.0
+analyst marketing,Excel,100.0
+analyst marketing,Snowflake,100.0
+analyst marketing,adobe,100.0
+analyst marketing,AWS,100.0
+analyst marketing,Pandas,100.0
+analyst marketing,SQL,100.0
+analyst programmer,Tableau,100.0
+analyst programmer,MongoDB,100.0
+analyst programmer,Excel,100.0
+analyst programmer,AWS,100.0
+analyst programmer,SQL,100.0
+analyst programmer,R,100.0
+analyst programmer,IBM,100.0
+analyst programmer,Python,100.0
+analyst programmer,Azure,100.0
+analyst programmer,Power BI,100.0
+analyst researcher,R,100.0
+analyst researcher,AWS,100.0
+analyst researcher,research,15.2
+analyst researcher,user,12.74
+analyst researcher,analysis,12.01
+analyst researcher,test,11.39
+analyst researcher,data analysis,9.1
+analyst researcher,laws,8.32
+analyst researcher,data analysis report,7.85
+analyst researcher,trade,7.85
+analyst sales,Sustainability,100.0
+analyst sales,Tableau,100.0
+analyst sales,Excel,100.0
+analyst sales,BigQuery,100.0
+analyst sales,Snowflake,100.0
+analyst sales,adobe,100.0
+analyst sales,SQL,100.0
+analyst sales,R,100.0
+analyst sales,Python,100.0
+analyst sales,Azure,100.0
+auditor,Regression,100.0
+auditor,Sustainability,100.0
+auditor,Tableau,100.0
+auditor,Pattern,100.0
+auditor,Hadoop,100.0
+auditor,Matrix,100.0
+auditor,GAN,100.0
+auditor,MongoDB,100.0
+auditor,Excel,100.0
+auditor,Spark,100.0
+auditor accountant,R,100.0
+auditor accountant,Excel,100.0
+auditor accountant,GAN,100.0
+auditor accountant,audit,30.09
+auditor accountant,account,18.7
+auditor accountant,daily,9.68
+auditor accountant,gaap,8.7
+auditor accountant,statement,6.57
+auditor accountant,government,6.36
+auditor accountant,communication,5.09
+auditor analyst,R,100.0
+auditor analyst,AWS,100.0
+auditor analyst,GAN,100.0
+auditor analyst,Excel,100.0
+auditor analyst,audit,22.0
+auditor analyst,internal,18.49
+auditor analyst,account,9.48
+auditor analyst,administration,9.4
+auditor analyst,energy,7.96
+auditor analyst,internal control,7.61
+auditor auditor,R,100.0
+auditor auditor,Pattern,100.0
+auditor auditor,AWS,100.0
+auditor auditor,GAN,100.0
+auditor auditor,audit,21.41
+auditor auditor,information,11.79
+auditor auditor,data,11.68
+auditor auditor,certificate,8.56
+auditor auditor,account,8.39
+auditor auditor,analysis,8.03
+auditor banking,R,100.0
+auditor banking,Excel,100.0
+auditor banking,Ethics,100.0
+auditor banking,audit,27.31
+auditor banking,risk,13.5
+auditor banking,management,10.12
+auditor banking,control,8.55
+auditor banking,financial,7.86
+auditor banking,internal,7.82
+auditor banking,risk management,6.69
+auditor data,R,100.0
+auditor data,Tableau,100.0
+auditor data,Python,100.0
+auditor data,Power BI,100.0
+auditor data,SQL,100.0
+auditor data,driver license,11.9
+auditor data,driver,11.9
+auditor data,reliable,10.87
+auditor data,license,10.74
+auditor data,vehicle,10.39
+auditor designer,R,100.0
+auditor designer,Excel,100.0
+auditor designer,inspection,18.22
+auditor designer,interpretation,14.38
+auditor designer,calculations,11.81
+auditor designer,test,11.7
+auditor designer,energy,10.59
+auditor designer,quality,7.44
+auditor designer,management construction,6.86
+auditor designer,construction management,6.46
+auditor manager,R,100.0
+auditor manager,Excel,100.0
+auditor manager,Ethics,100.0
+auditor manager,train,23.8
+auditor manager,audit,17.13
+auditor manager,account,9.59
+auditor manager,management,7.98
+auditor manager,medical,7.71
+auditor manager,analytical,7.49
+auditor manager,license,7.39
+auditor sales,R,100.0
+auditor sales,GAN,100.0
+auditor sales,sales,12.08
+auditor sales,retail experience,10.81
+auditor sales,hvac,10.47
+auditor sales,sales customer service,10.16
+auditor sales,outside,10.06
+auditor sales,home,9.61
+auditor sales,experience,9.49
+auditor sales,sales customer,9.21
+banking,Tableau,100.0
+banking,Pattern,100.0
+banking,Hadoop,100.0
+banking,Matrix,100.0
+banking,MongoDB,100.0
+banking,Threats,100.0
+banking,Excel,100.0
+banking,Spark,100.0
+banking,Ethics,100.0
+banking,STATA,100.0
+banking accountant,R,100.0
+banking accountant,bank,21.95
+banking accountant,financial,11.02
+banking accountant,automotive,9.64
+banking accountant,daily,9.29
+banking accountant,store,8.74
+banking accountant,management system,8.34
+banking accountant,review,8.28
+banking accountant,corporate,8.04
+banking accountant,management,7.57
+banking administrator,R,100.0
+banking administrator,adobe,100.0
+banking administrator,Excel,100.0
+banking administrator,bank,24.5
+banking administrator,experience,16.25
+banking administrator,process,9.27
+banking administrator,management,8.77
+banking administrator,microsoft,7.25
+banking administrator,scheme,7.24
+banking administrator,account,7.03
+banking analyst,Regression,100.0
+banking analyst,R,100.0
+banking analyst,Tableau,100.0
+banking analyst,SAS,100.0
+banking analyst,Ethics,100.0
+banking analyst,GAN,100.0
+banking analyst,Excel,100.0
+banking analyst,SQL,100.0
+banking analyst,bank,19.35
+banking analyst,financial,17.26
+banking auditor,R,100.0
+banking auditor,audit,26.03
+banking auditor,group,10.16
+banking auditor,quality assurance,9.67
+banking auditor,assurance,9.05
+banking auditor,risk,8.57
+banking auditor,procedures,8.14
+banking auditor,compliance,7.47
+banking auditor,quality,7.36
+banking auditor,management,7.07
+banking banking,R,100.0
+banking banking,bank,16.41
+banking banking,associate,14.47
+banking banking,bilingual,10.51
+banking banking,communication attention,8.95
+banking banking,communication attention detail,8.95
+banking banking,management,8.49
+banking banking,risk management,8.42
+banking banking,acumen,8.21
+banking banking,license,7.86
+banking consultant,R,100.0
+banking consultant,Ethics,100.0
+banking consultant,AWS,100.0
+banking consultant,GAN,100.0
+banking consultant,Excel,100.0
+banking consultant,service,14.78
+banking consultant,service sales,12.41
+banking consultant,sales,11.92
+banking consultant,customer service sales,10.74
+banking consultant,financial,10.47
+banking data,R,100.0
+banking data,Excel,100.0
+banking data,GAN,100.0
+banking data,data,24.68
+banking data,management,11.06
+banking data,protection,9.04
+banking data,teamwork problemsolving,8.51
+banking data,regulatory compliance,8.25
+banking data,awareness,8.12
+banking data,consult,7.61
+banking data analyst,R,100.0
+banking data analyst,GAN,100.0
+banking data analyst,tax,17.92
+banking data analyst,data,13.5
+banking data analyst,analysis,9.28
+banking data analyst,retirement,9.17
+banking data analyst,reconciliation,8.76
+banking data analyst,write communication verbal,8.51
+banking data analyst,metrics,8.39
+banking data analyst,quality assurance,8.27
+banking manager,R,100.0
+banking manager,adobe,100.0
+banking manager,SAS,100.0
+banking manager,Matrix,100.0
+banking manager,AWS,100.0
+banking manager,GAN,100.0
+banking manager,Excel,100.0
+banking manager,Ethics,100.0
+banking manager,bank,20.49
+banking manager,credit,12.84
+banking marketing,R,100.0
+banking marketing,media,20.21
+banking marketing,negotiation,14.89
+banking marketing,market,11.74
+banking marketing,customer,10.94
+banking marketing,management,8.14
+banking marketing,people management,7.12
+banking marketing,supplier,7.05
+banking marketing,bilingual,6.72
+banking marketing,response,6.66
+banking sales,R,100.0
+banking sales,sales,26.63
+banking sales,customer,13.13
+banking sales,management,11.72
+banking sales,retention,9.26
+banking sales,review,8.55
+banking sales,bank,7.55
+banking sales,development,7.29
+banking sales,financial,5.69
+banking sales,service,5.15
+consultant,Regression,100.0
+consultant,Sustainability,100.0
+consultant,Tableau,100.0
+consultant,chatbot,100.0
+consultant,Hadoop,100.0
+consultant,Pattern,100.0
+consultant,Matrix,100.0
+consultant,TensorFlow,100.0
+consultant,Django,100.0
+consultant,MongoDB,100.0
+consultant administrator,R,100.0
+consultant administrator,microsoft,19.98
+consultant administrator,certifications,17.01
+consultant administrator,network,15.3
+consultant administrator,support,8.48
+consultant administrator,technical,7.91
+consultant administrator,service,7.09
+consultant administrator,reliable,6.72
+consultant administrator,transportation,6.37
+consultant administrator,windows,5.63
+consultant analyst,R,100.0
+consultant analyst,Power BI,100.0
+consultant analyst,Excel,100.0
+consultant analyst,GAN,100.0
+consultant analyst,management,15.09
+consultant analyst,business,13.77
+consultant analyst,data,13.47
+consultant analyst,financial,9.28
+consultant analyst,analysis,9.26
+consultant analyst,project,8.8
+consultant auditor,R,100.0
+consultant auditor,Cybersecurity,100.0
+consultant auditor,scheme,23.9
+consultant auditor,audit,11.85
+consultant auditor,security,11.18
+consultant auditor,management,9.65
+consultant auditor,employee assistance,7.76
+consultant auditor,security clearance,7.56
+consultant auditor,pension,7.43
+consultant auditor,bonus,7.15
+consultant banking,R,100.0
+consultant banking,SQL,100.0
+consultant banking,bank,19.36
+consultant banking,sap,18.77
+consultant banking,business,12.46
+consultant banking,management,10.01
+consultant banking,process,7.94
+consultant banking,financial,7.29
+consultant banking,service,6.61
+consultant banking,management train,6.14
+consultant consultant,Sustainability,100.0
+consultant consultant,Tableau,100.0
+consultant consultant,Hadoop,100.0
+consultant consultant,Cybersecurity,100.0
+consultant consultant,AWS,100.0
+consultant consultant,SQL,100.0
+consultant consultant,R,100.0
+consultant consultant,Python,100.0
+consultant consultant,Azure,100.0
+consultant consultant,Power BI,100.0
+consultant consultant sales,R,100.0
+consultant consultant sales,Excel,100.0
+consultant consultant sales,GAN,100.0
+consultant consultant sales,microsoft,15.41
+consultant consultant sales,internet,14.49
+consultant consultant sales,tax,13.82
+consultant consultant sales,account,13.46
+consultant consultant sales,valid driver license,7.37
+consultant consultant sales,valid driver,7.37
+consultant consultant sales,supervisory,7.19
+consultant data,Sustainability,100.0
+consultant data,Tableau,100.0
+consultant data,Pattern,100.0
+consultant data,MongoDB,100.0
+consultant data,BigQuery,100.0
+consultant data,STATA,100.0
+consultant data,Snowflake,100.0
+consultant data,AWS,100.0
+consultant data,SQL,100.0
+consultant data,Docker,100.0
+consultant data analyst,R,100.0
+consultant data analyst,Power BI,100.0
+consultant data analyst,Excel,100.0
+consultant data analyst,management budget,10.86
+consultant data analyst,financial management,10.77
+consultant data analyst,budget forecast,10.68
+consultant data analyst,data,10.4
+consultant data analyst,communication analytical,9.69
+consultant data analyst,excel powerpoint,9.69
+consultant data analyst,oral communication,9.69
+consultant designer,R,100.0
+consultant designer,Excel,100.0
+consultant designer,SQL,100.0
+consultant designer,GAN,100.0
+consultant designer,home,13.55
+consultant designer,data,12.55
+consultant designer,salesforce,11.08
+consultant designer,flexible schedule,10.25
+consultant designer,organization,9.61
+consultant designer,customer service,8.73
+consultant developer,Tableau,100.0
+consultant developer,Pattern,100.0
+consultant developer,Excel,100.0
+consultant developer,adobe,100.0
+consultant developer,AWS,100.0
+consultant developer,SQL,100.0
+consultant developer,Docker,100.0
+consultant developer,R,100.0
+consultant developer,Python,100.0
+consultant developer,Azure,100.0
+consultant manager,Sustainability,100.0
+consultant manager,Tableau,100.0
+consultant manager,GAN,100.0
+consultant manager,MongoDB,100.0
+consultant manager,Excel,100.0
+consultant manager,adobe,100.0
+consultant manager,AWS,100.0
+consultant manager,SQL,100.0
+consultant manager,R,100.0
+consultant manager,Python,100.0
+consultant marketing,Regression,100.0
+consultant marketing,R,100.0
+consultant marketing,Python,100.0
+consultant marketing,adobe,100.0
+consultant marketing,Excel,100.0
+consultant marketing,SQL,100.0
+consultant marketing,GAN,100.0
+consultant marketing,market,22.57
+consultant marketing,management,14.08
+consultant marketing,research,11.39
+consultant sales,R,100.0
+consultant sales,GAN,100.0
+consultant sales,Excel,100.0
+consultant sales,Ethics,100.0
+consultant sales,sales,28.67
+consultant sales,recruitment,11.37
+consultant sales,management,10.52
+consultant sales,customer,8.64
+consultant sales,service,8.33
+consultant sales,communication,8.1
+consultant sales marketing,R,100.0
+consultant sales marketing,GAN,100.0
+consultant sales marketing,service,13.25
+consultant sales marketing,crm,10.96
+consultant sales marketing,sales,10.87
+consultant sales marketing,salesforce,10.37
+consultant sales marketing,customer,10.29
+consultant sales marketing,flexible schedule,9.31
+consultant sales marketing,home,9.22
+consultant sales marketing,goal,8.92
+data,Regression,100.0
+data,Sustainability,100.0
+data,Tableau,100.0
+data,LSTM,100.0
+data,SVM,100.0
+data,chatbot,100.0
+data,Hadoop,100.0
+data,Principal Component Analysis,100.0
+data,Matrix,100.0
+data,TensorFlow,100.0
+data accountant,R,100.0
+data accountant,data,22.98
+data accountant,analysis data,15.08
+data accountant,analysis,13.53
+data accountant,system,8.96
+data accountant,account,8.49
+data accountant,communication negotiation,7.03
+data accountant,reconciliation,6.39
+data accountant,financial analysis,6.08
+data accountant,management,5.88
+data administrator,Tableau,100.0
+data administrator,MongoDB,100.0
+data administrator,Excel,100.0
+data administrator,BigQuery,100.0
+data administrator,Google Cloud,100.0
+data administrator,AWS,100.0
+data administrator,SQL,100.0
+data administrator,Docker,100.0
+data administrator,R,100.0
+data administrator,Python,100.0
+data analyst,Regression,100.0
+data analyst,Sustainability,100.0
+data analyst,LSTM,100.0
+data analyst,Tableau,100.0
+data analyst,SVM,100.0
+data analyst,chatbot,100.0
+data analyst,Hadoop,100.0
+data analyst,Principal Component Analysis,100.0
+data analyst,Matrix,100.0
+data analyst,TensorFlow,100.0
+data analyst analyst,Tableau,100.0
+data analyst analyst,Pattern,100.0
+data analyst analyst,Excel,100.0
+data analyst analyst,Snowflake,100.0
+data analyst analyst,AWS,100.0
+data analyst analyst,SQL,100.0
+data analyst analyst,R,100.0
+data analyst analyst,Python,100.0
+data analyst analyst,Azure,100.0
+data analyst analyst,Power BI,100.0
+data analyst banking,R,100.0
+data analyst banking,Tableau,100.0
+data analyst banking,SQL,100.0
+data analyst banking,SAS,100.0
+data analyst banking,Excel,100.0
+data analyst banking,business analysis,16.97
+data analyst banking,bank,16.0
+data analyst banking,analysis,14.27
+data analyst banking,business,10.3
+data analyst banking,payment,9.89
+data analyst data,Tableau,100.0
+data analyst data,Hadoop,100.0
+data analyst data,MongoDB,100.0
+data analyst data,Excel,100.0
+data analyst data,Spark,100.0
+data analyst data,BigQuery,100.0
+data analyst data,Snowflake,100.0
+data analyst data,AWS,100.0
+data analyst data,SQL,100.0
+data analyst data,R,100.0
+data analyst data analyst,R,100.0
+data analyst data analyst,Excel,100.0
+data analyst data analyst,data,24.5
+data analyst data analyst,analysis,12.62
+data analyst data analyst,business,9.11
+data analyst data analyst,microsoft,9.07
+data analyst data analyst,teamwork communication,8.0
+data analyst data analyst,business analysis,7.51
+data analyst data analyst,complex,7.46
+data analyst data analyst,warehouse,7.36
+data analyst developer,Tableau,100.0
+data analyst developer,Excel,100.0
+data analyst developer,Spark,100.0
+data analyst developer,AWS,100.0
+data analyst developer,SQL,100.0
+data analyst developer,R,100.0
+data analyst developer,Python,100.0
+data analyst developer,Azure,100.0
+data analyst developer,Power BI,100.0
+data analyst developer,MySQL,100.0
+data analyst manager,Sustainability,100.0
+data analyst manager,Tableau,100.0
+data analyst manager,Excel,100.0
+data analyst manager,SQL,100.0
+data analyst manager,R,100.0
+data analyst manager,IBM,100.0
+data analyst manager,Azure,100.0
+data analyst manager,Power BI,100.0
+data analyst manager,PostgreSQL,100.0
+data analyst manager,data,34.2
+data analyst marketing,Regression,100.0
+data analyst marketing,Python,100.0
+data analyst marketing,R,100.0
+data analyst marketing,Tableau,100.0
+data analyst marketing,Power BI,100.0
+data analyst marketing,SQL,100.0
+data analyst marketing,Excel,100.0
+data analyst marketing,GAN,100.0
+data analyst marketing,data,19.03
+data analyst marketing,market,11.35
+data analyst sales,R,100.0
+data analyst sales,Excel,100.0
+data analyst sales,sales,16.42
+data analyst sales,optimization,14.24
+data analyst sales,financial,10.52
+data analyst sales,customer,9.71
+data analyst sales,analysis,8.31
+data analyst sales,budget forecast,8.28
+data analyst sales,call,8.28
+data analyst sales,analysis financial,8.21
+data auditor,Tableau,100.0
+data auditor,Excel,100.0
+data auditor,PCA,100.0
+data auditor,SQL,100.0
+data auditor,R,100.0
+data auditor,Python,100.0
+data auditor,Power BI,100.0
+data auditor,SAS,100.0
+data auditor,GAN,100.0
+data auditor,audit,18.53
+data banking,R,100.0
+data banking,Hadoop,100.0
+data banking,SQL,100.0
+data banking,analyst,17.46
+data banking,warehouse,16.28
+data banking,business,10.08
+data banking,data,9.04
+data banking,communications,8.79
+data banking,hybrid,8.37
+data banking,bank,7.83
+data consultant,Tableau,100.0
+data consultant,Hadoop,100.0
+data consultant,Excel,100.0
+data consultant,Spark,100.0
+data consultant,Ethics,100.0
+data consultant,BigQuery,100.0
+data consultant,Google Cloud,100.0
+data consultant,STATA,100.0
+data consultant,Snowflake,100.0
+data consultant,Jupyter,100.0
+data consultant data,R,100.0
+data consultant data,Excel,100.0
+data consultant data,data,32.38
+data consultant data,governance,19.97
+data consultant data,mentor,7.67
+data consultant data,advance,7.39
+data consultant data,data management,6.72
+data consultant data,quality,6.04
+data consultant data,write,5.32
+data consultant data,data analysis,5.06
+data data,Regression,100.0
+data data,Tableau,100.0
+data data,Pattern,100.0
+data data,Hadoop,100.0
+data data,TensorFlow,100.0
+data data,MongoDB,100.0
+data data,Excel,100.0
+data data,Spark,100.0
+data data,BigQuery,100.0
+data data,Google Cloud,100.0
+data designer,R,100.0
+data designer,Tableau,100.0
+data designer,SQL,100.0
+data designer,Excel,100.0
+data designer,data,24.84
+data designer,model,13.88
+data designer,data model,11.26
+data designer,agile,10.0
+data designer,sql,8.78
+data designer,data analysis,7.27
+data developer,Tableau,100.0
+data developer,Hadoop,100.0
+data developer,MongoDB,100.0
+data developer,Excel,100.0
+data developer,Spark,100.0
+data developer,BigQuery,100.0
+data developer,Google Cloud,100.0
+data developer,Snowflake,100.0
+data developer,Jupyter,100.0
+data developer,AWS,100.0
+data manager,Regression,100.0
+data manager,Sustainability,100.0
+data manager,Tableau,100.0
+data manager,Pattern,100.0
+data manager,Hadoop,100.0
+data manager,Principal Component Analysis,100.0
+data manager,Matrix,100.0
+data manager,TensorFlow,100.0
+data manager,MongoDB,100.0
+data manager,Excel,100.0
+data manager data,Tableau,100.0
+data manager data,Hadoop,100.0
+data manager data,TensorFlow,100.0
+data manager data,Excel,100.0
+data manager data,Spark,100.0
+data manager data,adobe,100.0
+data manager data,AWS,100.0
+data manager data,SQL,100.0
+data manager data,R,100.0
+data manager data,Python,100.0
+data marketing,Tableau,100.0
+data marketing,Excel,100.0
+data marketing,Google Cloud,100.0
+data marketing,AWS,100.0
+data marketing,SQL,100.0
+data marketing,R,100.0
+data marketing,Python,100.0
+data marketing,Azure,100.0
+data marketing,Power BI,100.0
+data marketing,SAS,100.0
+data operator,R,100.0
+data operator,adobe,100.0
+data operator,Ethics,100.0
+data operator,GAN,100.0
+data operator,Excel,100.0
+data operator,data entry,17.92
+data operator,entry,17.67
+data operator,data,15.06
+data operator,attention detail,7.65
+data operator,attention,7.65
+data programmer,R,100.0
+data programmer,Python,100.0
+data programmer,Tableau,100.0
+data programmer,Hadoop,100.0
+data programmer,SQL,100.0
+data programmer,SAS,100.0
+data programmer,Spark,100.0
+data programmer,price,22.05
+data programmer,data,17.28
+data programmer,machine,10.89
+data researcher,R,100.0
+data researcher,Python,100.0
+data researcher,GAN,100.0
+data researcher,Excel,100.0
+data researcher,data,27.26
+data researcher,research,14.23
+data researcher,methodologies,12.92
+data researcher,analysis,9.36
+data researcher,technologies,6.5
+data researcher,machine,6.3
+data sales,R,100.0
+data sales,Ethics,100.0
+data sales,GAN,100.0
+data sales,data,31.71
+data sales,governance,15.21
+data sales,sales,12.75
+data sales,insurance,7.48
+data sales,business,6.55
+data sales,cloud,5.78
+data sales,management,5.26
+designer,Regression,100.0
+designer,Sustainability,100.0
+designer,Tableau,100.0
+designer,Pattern,100.0
+designer,Hadoop,100.0
+designer,Matrix,100.0
+designer,TensorFlow,100.0
+designer,MongoDB,100.0
+designer,Excel,100.0
+designer,Spark,100.0
+designer administrator,R,100.0
+designer administrator,project,27.75
+designer administrator,equipment,11.02
+designer administrator,autocad,9.98
+designer administrator,industrial,9.7
+designer administrator,manufacture,8.51
+designer administrator,coordination,7.58
+designer administrator,certification,6.96
+designer administrator,engineer,6.66
+designer administrator,process,6.21
+designer consultant,R,100.0
+designer consultant,adobe,100.0
+designer consultant,GAN,100.0
+designer consultant,adobe,15.52
+designer consultant,sales,12.08
+designer consultant,technical,11.73
+designer consultant,service,10.52
+designer consultant,consultative,9.29
+designer consultant,technical write,8.6
+designer consultant,management project management,8.29
+designer data,R,100.0
+designer data,Pattern,100.0
+designer data,Hadoop,100.0
+designer data,Spark,100.0
+designer data,user,15.54
+designer data,product,14.28
+designer data,research,12.37
+designer data,data,11.85
+designer data,healthcare,8.26
+designer data,development,7.93
+designer designer,Sustainability,100.0
+designer designer,R,100.0
+designer designer,adobe,100.0
+designer designer,Pattern,100.0
+designer designer,GAN,100.0
+designer designer,Excel,100.0
+designer designer,autocad,18.24
+designer designer,management,14.32
+designer designer,engineer,12.16
+designer designer,project,9.76
+designer developer,R,100.0
+designer developer,adobe,100.0
+designer developer,Tableau,100.0
+designer developer,Excel,100.0
+designer developer,adobe,22.08
+designer developer,web,16.42
+designer developer,research,9.92
+designer developer,javascript,9.25
+designer developer,creative,8.41
+designer developer,management,7.94
+designer manager,Excel,100.0
+designer manager,Google Cloud,100.0
+designer manager,adobe,100.0
+designer manager,AWS,100.0
+designer manager,SQL,100.0
+designer manager,R,100.0
+designer manager,Python,100.0
+designer manager,Azure,100.0
+designer manager,GAN,100.0
+designer manager,user,15.37
+designer marketing,R,100.0
+designer marketing,adobe,100.0
+designer marketing,GAN,100.0
+designer marketing,creative,16.05
+designer marketing,brand,15.27
+designer marketing,management,10.2
+designer marketing,adobe,9.92
+designer marketing,communication,9.73
+designer marketing,visual,9.48
+designer marketing,production,8.54
+designer operator,R,100.0
+designer operator,adobe,100.0
+designer operator,GAN,100.0
+designer operator,management,13.14
+designer operator,customer,11.77
+designer operator,productivity,11.05
+designer operator,satisfaction,10.85
+designer operator,collaborative,9.8
+designer operator,management customer service,9.3
+designer operator,detailoriented,8.52
+designer programmer,R,100.0
+designer programmer,adobe,100.0
+designer programmer,Excel,100.0
+designer programmer,software,12.67
+designer programmer,tool,12.38
+designer programmer,principles,11.01
+designer programmer,management systems,10.07
+designer programmer,experience,9.73
+designer programmer,javascript,9.52
+designer programmer,adobe,9.09
+designer researcher,R,100.0
+designer researcher,adobe,100.0
+designer researcher,experience,18.57
+designer researcher,user,15.57
+designer researcher,research,12.39
+designer researcher,interview,12.31
+designer researcher,adobe,8.28
+designer researcher,creative,7.88
+designer researcher,study,6.45
+designer researcher,data,6.33
+designer sales,R,100.0
+designer sales,GAN,100.0
+designer sales,Excel,100.0
+designer sales,sales,11.57
+designer sales,communication,11.51
+designer sales,order,11.44
+designer sales,pay,10.61
+designer sales,customer,10.27
+designer sales,health,9.85
+designer sales,site,9.37
+designer sales manager,R,100.0
+designer sales manager,insurance,24.99
+designer sales manager,assistance,11.95
+designer sales manager,employee,10.81
+designer sales manager,program,8.23
+designer sales manager,retail experience,7.62
+designer sales manager,physical strength,7.46
+designer sales manager,strength,7.38
+designer sales manager,flexible spend account,7.24
+designer sales manager,insurance pay,7.16
+developer,Regression,100.0
+developer,Sustainability,100.0
+developer,Tableau,100.0
+developer,SVM,100.0
+developer,chatbot,100.0
+developer,Hadoop,100.0
+developer,Pattern,100.0
+developer,Matrix,100.0
+developer,TensorFlow,100.0
+developer,Django,100.0
+developer administrator,Tableau,100.0
+developer administrator,Django,100.0
+developer administrator,MongoDB,100.0
+developer administrator,Flask,100.0
+developer administrator,Excel,100.0
+developer administrator,SQL,100.0
+developer administrator,Docker,100.0
+developer administrator,R,100.0
+developer administrator,Python,100.0
+developer administrator,IBM,100.0
+developer analyst,Regression,100.0
+developer analyst,Tableau,100.0
+developer analyst,Pattern,100.0
+developer analyst,Excel,100.0
+developer analyst,Google Cloud,100.0
+developer analyst,AWS,100.0
+developer analyst,SQL,100.0
+developer analyst,Docker,100.0
+developer analyst,R,100.0
+developer analyst,Python,100.0
+developer banking,R,100.0
+developer banking,Azure,100.0
+developer banking,Power BI,100.0
+developer banking,AWS,100.0
+developer banking,SQL,100.0
+developer banking,SAS,100.0
+developer banking,Excel,100.0
+developer banking,Snowflake,100.0
+developer banking,data,27.63
+developer banking,sql,15.62
+developer consultant,Excel,100.0
+developer consultant,AWS,100.0
+developer consultant,SQL,100.0
+developer consultant,Docker,100.0
+developer consultant,R,100.0
+developer consultant,Python,100.0
+developer consultant,Azure,100.0
+developer consultant,MySQL,100.0
+developer consultant,GAN,100.0
+developer consultant,java,26.18
+developer data,Tableau,100.0
+developer data,Hadoop,100.0
+developer data,GAN,100.0
+developer data,MongoDB,100.0
+developer data,Excel,100.0
+developer data,Spark,100.0
+developer data,Snowflake,100.0
+developer data,AWS,100.0
+developer data,Pandas,100.0
+developer data,NumPy,100.0
+developer designer,R,100.0
+developer designer,adobe,100.0
+developer designer,SAS,100.0
+developer designer,Excel,100.0
+developer designer,GAN,100.0
+developer designer,web,17.55
+developer designer,content,16.03
+developer designer,intelligence,10.23
+developer designer,management,9.7
+developer designer,development,9.66
+developer developer,Pattern,100.0
+developer developer,TensorFlow,100.0
+developer developer,MongoDB,100.0
+developer developer,Cybersecurity,100.0
+developer developer,AWS,100.0
+developer developer,SQL,100.0
+developer developer,PyTorch,100.0
+developer developer,Docker,100.0
+developer developer,R,100.0
+developer developer,Python,100.0
+developer manager,R,100.0
+developer manager,Azure,100.0
+developer manager,MySQL,100.0
+developer manager,AWS,100.0
+developer manager,SQL,100.0
+developer manager,development,12.48
+developer manager,technical,12.29
+developer manager,management,10.86
+developer manager,content,10.35
+developer manager,software,10.2
+developer marketing,R,100.0
+developer marketing,adobe,100.0
+developer marketing,AWS,100.0
+developer marketing,implementation,25.7
+developer marketing,technical,19.67
+developer marketing,development,16.65
+developer marketing,aws,13.54
+developer marketing,adobe,13.02
+developer marketing,documentation,11.43
+developer marketing,platform,0.0
+developer programmer,Hadoop,100.0
+developer programmer,Excel,100.0
+developer programmer,Spark,100.0
+developer programmer,adobe,100.0
+developer programmer,AWS,100.0
+developer programmer,SQL,100.0
+developer programmer,R,100.0
+developer programmer,Python,100.0
+developer programmer,Azure,100.0
+developer programmer,MySQL,100.0
+developer programmer analyst,R,100.0
+developer programmer analyst,Azure,100.0
+developer programmer analyst,SQL,100.0
+developer programmer analyst,GAN,100.0
+developer programmer analyst,server,17.52
+developer programmer analyst,sql,14.02
+developer programmer analyst,systems,12.7
+developer programmer analyst,web,10.72
+developer programmer analyst,management,8.89
+developer programmer analyst,software,8.04
+developer researcher,R,100.0
+developer researcher,Python,100.0
+developer researcher,trade,19.77
+developer researcher,accountability,10.29
+developer researcher,asset,9.81
+developer researcher,investment,9.44
+developer researcher,ethic,9.18
+developer researcher,statistics,8.99
+developer researcher,advance,8.37
+developer researcher,computer science,8.31
+manager,Regression,100.0
+manager,Sustainability,100.0
+manager,Tableau,100.0
+manager,SVM,100.0
+manager,chatbot,100.0
+manager,Hadoop,100.0
+manager,Matrix,100.0
+manager,TensorFlow,100.0
+manager,Principal Component Analysis,100.0
+manager,Pattern,100.0
+manager accountant,R,100.0
+manager accountant,AWS,100.0
+manager accountant,GAN,100.0
+manager accountant,Excel,100.0
+manager accountant,Ethics,100.0
+manager accountant,account,26.04
+manager accountant,tax,21.26
+manager accountant,management,10.94
+manager accountant,financial,9.56
+manager accountant,cpa,5.94
+manager administrator,Tableau,100.0
+manager administrator,Excel,100.0
+manager administrator,adobe,100.0
+manager administrator,AWS,100.0
+manager administrator,SQL,100.0
+manager administrator,Docker,100.0
+manager administrator,R,100.0
+manager administrator,Kubernetes,100.0
+manager administrator,SAS,100.0
+manager administrator,GAN,100.0
+manager analyst,Sustainability,100.0
+manager analyst,R,100.0
+manager analyst,Tableau,100.0
+manager analyst,Power BI,100.0
+manager analyst,GAN,100.0
+manager analyst,Excel,100.0
+manager analyst,Ethics,100.0
+manager analyst,management,20.13
+manager analyst,analysis,12.13
+manager analyst,business,10.74
+manager auditor,Sustainability,100.0
+manager auditor,R,100.0
+manager auditor,adobe,100.0
+manager auditor,Excel,100.0
+manager auditor,Ethics,100.0
+manager auditor,audit,27.65
+manager auditor,cpa,11.51
+manager auditor,account,11.47
+manager auditor,government,7.97
+manager auditor,medical dental vision,7.59
+manager banking,Sustainability,100.0
+manager banking,Excel,100.0
+manager banking,AWS,100.0
+manager banking,SQL,100.0
+manager banking,Docker,100.0
+manager banking,R,100.0
+manager banking,Python,100.0
+manager banking,Azure,100.0
+manager banking,Kubernetes,100.0
+manager banking,GAN,100.0
+manager banking marketing,R,100.0
+manager banking marketing,market,21.12
+manager banking marketing,spanish,11.66
+manager banking marketing,advertise,10.76
+manager banking marketing,communications,10.6
+manager banking marketing,brand,10.44
+manager banking marketing,creative,9.04
+manager banking marketing,plan,7.01
+manager banking marketing,write,6.71
+manager banking marketing,project management,6.56
+manager consultant,Sustainability,100.0
+manager consultant,Tableau,100.0
+manager consultant,Matrix,100.0
+manager consultant,Threats,100.0
+manager consultant,Excel,100.0
+manager consultant,SQL,100.0
+manager consultant,R,100.0
+manager consultant,Azure,100.0
+manager consultant,Power BI,100.0
+manager consultant,SAS,100.0
+manager data,Regression,100.0
+manager data,Sustainability,100.0
+manager data,Tableau,100.0
+manager data,SVM,100.0
+manager data,Pattern,100.0
+manager data,Hadoop,100.0
+manager data,Matrix,100.0
+manager data,TensorFlow,100.0
+manager data,MongoDB,100.0
+manager data,Threats,100.0
+manager data analyst,Python,100.0
+manager data analyst,R,100.0
+manager data analyst,Tableau,100.0
+manager data analyst,Power BI,100.0
+manager data analyst,SQL,100.0
+manager data analyst,Excel,100.0
+manager data analyst,data,41.98
+manager data analyst,analysis,8.01
+manager data analyst,data visualization,6.89
+manager data analyst,visualization,6.74
+manager data consultant,R,100.0
+manager data consultant,Python,100.0
+manager data consultant,Hadoop,100.0
+manager data consultant,Spark,100.0
+manager data consultant,SQL,100.0
+manager data consultant,Snowflake,100.0
+manager data consultant,Google Cloud,100.0
+manager data consultant,data,38.79
+manager data consultant,sql,9.97
+manager data consultant,share,7.07
+manager data data,R,100.0
+manager data data,Python,100.0
+manager data data,Azure,100.0
+manager data data,Power BI,100.0
+manager data data,AWS,100.0
+manager data data,SQL,100.0
+manager data data,GAN,100.0
+manager data data,data,22.52
+manager data data,analytics,12.35
+manager data data,share,9.03
+manager designer,Python,100.0
+manager designer,Sustainability,100.0
+manager designer,R,100.0
+manager designer,adobe,100.0
+manager designer,GAN,100.0
+manager designer,management,21.38
+manager designer,retail,9.57
+manager designer,project,9.16
+manager designer,development,9.12
+manager designer,need,8.77
+manager developer,Pattern,100.0
+manager developer,Excel,100.0
+manager developer,adobe,100.0
+manager developer,AWS,100.0
+manager developer,SQL,100.0
+manager developer,Docker,100.0
+manager developer,R,100.0
+manager developer,Python,100.0
+manager developer,IBM,100.0
+manager developer,Azure,100.0
+manager manager,Sustainability,100.0
+manager manager,Tableau,100.0
+manager manager,Matrix,100.0
+manager manager,Threats,100.0
+manager manager,Excel,100.0
+manager manager,Spark,100.0
+manager manager,Ethics,100.0
+manager manager,Google Cloud,100.0
+manager manager,Jupyter,100.0
+manager manager,PCA,100.0
+manager manager accountant,R,100.0
+manager manager accountant,account,17.2
+manager manager accountant,tax,13.24
+manager manager accountant,leave,12.07
+manager manager accountant,statement,9.26
+manager manager accountant,cpa,8.63
+manager manager accountant,action,8.44
+manager manager accountant,initiative,7.99
+manager manager accountant,mentor,7.89
+manager manager accountant,service,7.87
+manager marketing,Regression,100.0
+manager marketing,Sustainability,100.0
+manager marketing,Tableau,100.0
+manager marketing,Pattern,100.0
+manager marketing,Matrix,100.0
+manager marketing,Excel,100.0
+manager marketing,Spark,100.0
+manager marketing,Ethics,100.0
+manager marketing,BigQuery,100.0
+manager marketing,Google Cloud,100.0
+manager marketing marketing,R,100.0
+manager marketing marketing,adobe,100.0
+manager marketing marketing,GAN,100.0
+manager marketing marketing,development,17.46
+manager marketing marketing,strategies,16.23
+manager marketing marketing,performance,9.79
+manager marketing marketing,market,8.68
+manager marketing marketing,brand,8.58
+manager marketing marketing,commercial,8.23
+manager marketing marketing,evaluation,8.17
+manager marketing sales,R,100.0
+manager marketing sales,GAN,100.0
+manager marketing sales,product,25.91
+manager marketing sales,management,15.41
+manager marketing sales,price,11.5
+manager marketing sales,systems,7.34
+manager marketing sales,management inventory management,7.04
+manager marketing sales,software,6.97
+manager marketing sales,management inventory,6.89
+manager marketing sales,office,6.63
+manager operator,R,100.0
+manager operator,Excel,100.0
+manager operator,leadership,18.77
+manager operator,operations,13.4
+manager operator,management,11.96
+manager operator,shift,9.96
+manager operator,operational,8.66
+manager operator,safety,8.18
+manager operator,teamwork,8.07
+manager operator,schedule,7.43
+manager programmer,R,100.0
+manager programmer,systems,11.49
+manager programmer,software,10.91
+manager programmer,general ledger,10.9
+manager programmer,payable,10.56
+manager programmer,account payable,10.56
+manager programmer,ledger,10.35
+manager programmer,daily,9.87
+manager programmer,resources,8.93
+manager programmer,task,8.42
+manager researcher,R,100.0
+manager researcher,screen,12.27
+manager researcher,source,11.86
+manager researcher,ethic,10.75
+manager researcher,package,10.46
+manager researcher,accuracy,10.19
+manager researcher,crm,9.8
+manager researcher,strategy,9.18
+manager researcher,client,8.77
+manager researcher,ms,8.58
+manager sales,Tableau,100.0
+manager sales,Matrix,100.0
+manager sales,Excel,100.0
+manager sales,Ethics,100.0
+manager sales,Google Cloud,100.0
+manager sales,adobe,100.0
+manager sales,AWS,100.0
+manager sales,SQL,100.0
+manager sales,R,100.0
+manager sales,IBM,100.0
+manager sales manager,R,100.0
+manager sales manager,sales,36.43
+manager sales manager,sales management,8.43
+manager sales manager,analysis,7.9
+manager sales manager,financial analysis,7.1
+manager sales manager,competitive,7.05
+manager sales manager,strategies,6.95
+manager sales manager,track,6.77
+manager sales manager,new,6.69
+manager sales manager,forecast,6.4
+manager sales marketing,R,100.0
+manager sales marketing,management,18.73
+manager sales marketing,sales,12.61
+manager sales marketing,market,10.51
+manager sales marketing,development,9.06
+manager sales marketing,business,9.06
+manager sales marketing,communication,8.36
+manager sales marketing,management business,8.0
+manager sales marketing,platforms,8.0
+manager sales marketing,crm,7.95
+marketing,Regression,100.0
+marketing,Sustainability,100.0
+marketing,Tableau,100.0
+marketing,Pattern,100.0
+marketing,Hadoop,100.0
+marketing,Matrix,100.0
+marketing,Excel,100.0
+marketing,Spark,100.0
+marketing,Ethics,100.0
+marketing,Google Cloud,100.0
+marketing accountant,R,100.0
+marketing accountant,Excel,100.0
+marketing accountant,account,17.56
+marketing accountant,invoice,9.87
+marketing accountant,bachelor degree account,9.62
+marketing accountant,degree account,9.46
+marketing accountant,analysis,9.34
+marketing accountant,budget forecast,9.3
+marketing accountant,analysis financial,9.23
+marketing accountant,purchase,8.68
+marketing administrator,R,100.0
+marketing administrator,adobe,100.0
+marketing administrator,GAN,100.0
+marketing administrator,market,28.36
+marketing administrator,campaign,12.11
+marketing administrator,display,9.21
+marketing administrator,automation,8.78
+marketing administrator,digital market,7.89
+marketing administrator,email,7.07
+marketing administrator,management,6.94
+marketing analyst,Regression,100.0
+marketing analyst,Tableau,100.0
+marketing analyst,Pattern,100.0
+marketing analyst,Principal Component Analysis,100.0
+marketing analyst,Excel,100.0
+marketing analyst,BigQuery,100.0
+marketing analyst,Google Cloud,100.0
+marketing analyst,adobe,100.0
+marketing analyst,AWS,100.0
+marketing analyst,SQL,100.0
+marketing analyst analyst,R,100.0
+marketing analyst analyst,Excel,100.0
+marketing analyst analyst,market,22.86
+marketing analyst analyst,media,17.72
+marketing analyst analyst,pay,11.74
+marketing analyst analyst,analysis,7.29
+marketing analyst analyst,digital market,7.21
+marketing analyst analyst,advertise,6.99
+marketing analyst analyst,online,6.59
+marketing analyst analyst,content,6.55
+marketing analyst manager,R,100.0
+marketing analyst manager,Tableau,100.0
+marketing analyst manager,SQL,100.0
+marketing analyst manager,data,17.79
+marketing analyst manager,market,13.8
+marketing analyst manager,campaign,13.36
+marketing analyst manager,management,9.57
+marketing analyst manager,report,8.12
+marketing analyst manager,clean,7.97
+marketing analyst manager,business,7.94
+marketing analyst marketing,R,100.0
+marketing analyst marketing,Excel,100.0
+marketing analyst marketing,strategy,14.58
+marketing analyst marketing,finance,13.71
+marketing analyst marketing,excel,10.66
+marketing analyst marketing,microsoft,10.1
+marketing analyst marketing,management client,9.27
+marketing analyst marketing,solve communication,8.48
+marketing analyst marketing,selfmotivation,8.48
+marketing analyst marketing,problem solve communication,8.48
+marketing consultant,Regression,100.0
+marketing consultant,Tableau,100.0
+marketing consultant,GAN,100.0
+marketing consultant,Excel,100.0
+marketing consultant,adobe,100.0
+marketing consultant,AWS,100.0
+marketing consultant,SQL,100.0
+marketing consultant,Decision Tree,100.0
+marketing consultant,R,100.0
+marketing consultant,IBM,100.0
+marketing consultant sales,R,100.0
+marketing consultant sales,sales,18.36
+marketing consultant sales,goals,14.48
+marketing consultant sales,market,13.11
+marketing consultant sales,platforms,11.64
+marketing consultant sales,display,8.04
+marketing consultant sales,passion,7.18
+marketing consultant sales,sales experience,6.94
+marketing consultant sales,stress,6.83
+marketing consultant sales,revenue,6.83
+marketing data,R,100.0
+marketing data,adobe,100.0
+marketing data,Python,100.0
+marketing data,Tableau,100.0
+marketing data,Power BI,100.0
+marketing data,SQL,100.0
+marketing data,Excel,100.0
+marketing data,data,21.19
+marketing data,market,15.6
+marketing data,business,11.81
+marketing data analyst,Sustainability,100.0
+marketing data analyst,Tableau,100.0
+marketing data analyst,Excel,100.0
+marketing data analyst,BigQuery,100.0
+marketing data analyst,Google Cloud,100.0
+marketing data analyst,adobe,100.0
+marketing data analyst,AWS,100.0
+marketing data analyst,SQL,100.0
+marketing data analyst,R,100.0
+marketing data analyst,Python,100.0
+marketing data manager,R,100.0
+marketing data manager,adobe,100.0
+marketing data manager,Tableau,100.0
+marketing data manager,Power BI,100.0
+marketing data manager,Excel,100.0
+marketing data manager,SQL,100.0
+marketing data manager,data,17.48
+marketing data manager,analytics,11.98
+marketing data manager,market,11.29
+marketing data manager,business,9.74
+marketing designer,R,100.0
+marketing designer,adobe,100.0
+marketing designer,Excel,100.0
+marketing designer,GAN,100.0
+marketing designer,market,19.89
+marketing designer,creative,14.6
+marketing designer,adobe,12.46
+marketing designer,digital,8.86
+marketing designer,brand,8.43
+marketing designer,portfolio,7.72
+marketing developer,R,100.0
+marketing developer,adobe,100.0
+marketing developer,GAN,100.0
+marketing developer,SQL,100.0
+marketing developer,Excel,100.0
+marketing developer,market,15.6
+marketing developer,email,13.77
+marketing developer,content,11.17
+marketing developer,salesforce,10.66
+marketing developer,automation,10.26
+marketing manager,Regression,100.0
+marketing manager,Sustainability,100.0
+marketing manager,Tableau,100.0
+marketing manager,chatbot,100.0
+marketing manager,Pattern,100.0
+marketing manager,Hadoop,100.0
+marketing manager,Matrix,100.0
+marketing manager,Excel,100.0
+marketing manager,Ethics,100.0
+marketing manager,Google Cloud,100.0
+marketing manager data,R,100.0
+marketing manager data,data,23.88
+marketing manager data,platforms,13.7
+marketing manager data,customer,9.58
+marketing manager data,onboarding,8.91
+marketing manager data,advertise,7.86
+marketing manager data,online,7.42
+marketing manager data,strategic plan,7.37
+marketing manager data,management,7.13
+marketing manager data,technologies,7.12
+marketing manager manager,R,100.0
+marketing manager manager,Excel,100.0
+marketing manager manager,GAN,100.0
+marketing manager manager,management,18.38
+marketing manager manager,market,15.9
+marketing manager manager,resource management,9.1
+marketing manager manager,management budget,8.56
+marketing manager manager,vendor management,8.49
+marketing manager manager,digital market,8.36
+marketing manager manager,advertise,8.1
+marketing manager marketing,R,100.0
+marketing manager marketing,adobe,100.0
+marketing manager marketing,GAN,100.0
+marketing manager marketing,market,27.38
+marketing manager marketing,management,16.27
+marketing manager marketing,media,11.79
+marketing manager marketing,digital market,8.22
+marketing manager marketing,adobe,7.04
+marketing manager marketing,business,6.75
+marketing manager marketing,digital,6.5
+marketing manager sales,R,100.0
+marketing manager sales,market,30.5
+marketing manager sales,sales,12.01
+marketing manager sales,brand,11.31
+marketing manager sales,strategy,9.45
+marketing manager sales,experience sales,6.61
+marketing manager sales,experience,6.3
+marketing manager sales,sales experience,6.06
+marketing manager sales,management data analysis,5.96
+marketing manager sales,share,5.92
+marketing manager sales marketing,R,100.0
+marketing manager sales marketing,market,24.7
+marketing manager sales marketing,opportunities,13.96
+marketing manager sales marketing,lead generation,8.33
+marketing manager sales marketing,initiatives,8.26
+marketing manager sales marketing,events,7.67
+marketing manager sales marketing,collaborative,7.67
+marketing manager sales marketing,write verbal communication,7.49
+marketing manager sales marketing,remote,7.38
+marketing manager sales marketing,brand,7.33
+marketing marketing,R,100.0
+marketing marketing,Excel,100.0
+marketing marketing,market,23.41
+marketing marketing,content,13.41
+marketing marketing,management,11.9
+marketing marketing,digital market,9.84
+marketing marketing,generation,8.16
+marketing marketing,digital,7.78
+marketing marketing,demand,7.5
+marketing marketing,development,6.73
+marketing researcher,Regression,100.0
+marketing researcher,R,100.0
+marketing researcher,Matrix,100.0
+marketing researcher,GAN,100.0
+marketing researcher,research,24.68
+marketing researcher,survey,14.79
+marketing researcher,data,8.46
+marketing researcher,development,8.33
+marketing researcher,web,8.07
+marketing researcher,clean,7.8
+marketing sales,R,100.0
+marketing sales,adobe,100.0
+marketing sales,SAS,100.0
+marketing sales,GAN,100.0
+marketing sales,Excel,100.0
+marketing sales,Ethics,100.0
+marketing sales,market,22.24
+marketing sales,digital,13.49
+marketing sales,sales,12.0
+marketing sales,digital market,10.9
+marketing sales analyst,R,100.0
+marketing sales analyst,Tableau,100.0
+marketing sales analyst,Power BI,100.0
+marketing sales analyst,Excel,100.0
+marketing sales analyst,GAN,100.0
+marketing sales analyst,market,17.53
+marketing sales analyst,management,14.59
+marketing sales analyst,data,10.85
+marketing sales analyst,brand,10.4
+marketing sales analyst,report,9.28
+marketing sales consultant,R,100.0
+marketing sales consultant,adobe,100.0
+marketing sales consultant,digital market,12.56
+marketing sales consultant,advertise,12.18
+marketing sales consultant,market,11.96
+marketing sales consultant,adobe,10.75
+marketing sales consultant,media,10.3
+marketing sales consultant,digital,9.94
+marketing sales consultant,customer service,8.58
+marketing sales consultant,sales,8.37
+marketing sales manager,R,100.0
+marketing sales manager,adobe,100.0
+marketing sales manager,Excel,100.0
+marketing sales manager,GAN,100.0
+marketing sales manager,market,16.92
+marketing sales manager,sales,14.21
+marketing sales manager,microsoft,10.17
+marketing sales manager,brand,10.04
+marketing sales manager,us,9.9
+marketing sales manager,acquisition,9.76
+operator,Sustainability,100.0
+operator,Pattern,100.0
+operator,Hadoop,100.0
+operator,Matrix,100.0
+operator,Django,100.0
+operator,Threats,100.0
+operator,Excel,100.0
+operator,Spark,100.0
+operator,Ethics,100.0
+operator,Flask,100.0
+operator administrator,R,100.0
+operator administrator,support,19.27
+operator administrator,health,13.99
+operator administrator,mental health,11.04
+operator administrator,mental,10.37
+operator administrator,scheme,10.08
+operator administrator,care,8.71
+operator administrator,warehouse,8.19
+operator administrator,access,7.59
+operator administrator,retail experience,5.52
+operator analyst,R,100.0
+operator analyst,certification,19.35
+operator analyst,language,16.2
+operator analyst,communications,11.82
+operator analyst,collection,11.25
+operator analyst,products,10.08
+operator analyst,intelligence,9.57
+operator analyst,analyst,5.87
+operator analyst,clearance,5.66
+operator analyst,databases,5.47
+operator data,R,100.0
+operator data,center,14.77
+operator data,troubleshoot,13.19
+operator data,maintenance,12.43
+operator data,inventory control,9.53
+operator data,installation,8.77
+operator data,hardware,8.69
+operator data,incident,8.53
+operator data,distribution,8.24
+operator data,electrical,8.1
+operator developer,R,100.0
+operator developer,Python,100.0
+operator developer,Cybersecurity,100.0
+operator developer,network,24.41
+operator developer,experience,15.32
+operator developer,operations,12.72
+operator developer,computer,11.24
+operator developer,tool,8.02
+operator developer,engineer,7.71
+operator developer,science,5.32
+operator manager,R,100.0
+operator manager,GAN,100.0
+operator manager,truck,12.53
+operator manager,repair,11.03
+operator manager,plant,10.92
+operator manager,inspection,10.82
+operator manager,operation,9.89
+operator manager,supervision,9.58
+operator manager,communication organization,9.5
+operator manager,production,8.89
+operator operator,R,100.0
+operator operator,GAN,100.0
+operator operator,Excel,100.0
+operator operator,safety,15.19
+operator operator,machine,14.32
+operator operator,maintenance,13.24
+operator operator,equipment,11.02
+operator operator,repair,10.19
+operator operator,experience,7.78
+operator operator,troubleshoot,7.44
+operator programmer,R,100.0
+operator programmer,IBM,100.0
+operator programmer,Excel,100.0
+operator programmer,GAN,100.0
+operator programmer,machine,21.58
+operator programmer,autocad,14.22
+operator programmer,maintenance,9.98
+operator programmer,organizational,8.76
+operator programmer,program,8.17
+operator programmer,management safety,8.13
+programmer,Regression,100.0
+programmer,Tableau,100.0
+programmer,Pattern,100.0
+programmer,Matrix,100.0
+programmer,Django,100.0
+programmer,MongoDB,100.0
+programmer,Flask,100.0
+programmer,Excel,100.0
+programmer,Spark,100.0
+programmer,Google Cloud,100.0
+programmer analyst,Regression,100.0
+programmer analyst,Tableau,100.0
+programmer analyst,Pattern,100.0
+programmer analyst,Hadoop,100.0
+programmer analyst,MongoDB,100.0
+programmer analyst,Flask,100.0
+programmer analyst,Excel,100.0
+programmer analyst,Spark,100.0
+programmer analyst,Ethics,100.0
+programmer analyst,STATA,100.0
+programmer analyst consultant,R,100.0
+programmer analyst consultant,Tableau,100.0
+programmer analyst consultant,Power BI,100.0
+programmer analyst consultant,SQL,100.0
+programmer analyst consultant,Excel,100.0
+programmer analyst consultant,power,21.72
+programmer analyst consultant,access,11.78
+programmer analyst consultant,microsoft,11.75
+programmer analyst consultant,certification,11.23
+programmer analyst consultant,excel,8.26
+programmer analyst data,R,100.0
+programmer analyst data,Python,100.0
+programmer analyst data,SQL,100.0
+programmer analyst data,data,23.46
+programmer analyst data,systems,12.01
+programmer analyst data,storage,10.04
+programmer analyst data,data model,8.51
+programmer analyst data,warehouse,8.45
+programmer analyst data,integration,7.74
+programmer analyst data,bi,7.65
+programmer analyst developer,R,100.0
+programmer analyst developer,SQL,100.0
+programmer analyst developer,java,22.79
+programmer analyst developer,salesforce,14.4
+programmer analyst developer,sql,11.52
+programmer analyst developer,framework,8.11
+programmer analyst developer,interview,7.93
+programmer analyst developer,erp,7.39
+programmer analyst developer,enterprise,7.11
+programmer analyst developer,implementation,7.02
+programmer consultant,R,100.0
+programmer consultant,GAN,100.0
+programmer consultant,software,16.68
+programmer consultant,user,15.01
+programmer consultant,specifications,9.04
+programmer consultant,best practice,8.84
+programmer consultant,best,8.77
+programmer consultant,software development,8.47
+programmer consultant,need,8.41
+programmer consultant,quality assurance,8.41
+programmer designer,R,100.0
+programmer designer,engineer,14.71
+programmer designer,technology,14.16
+programmer designer,electrical,10.08
+programmer designer,portfolio,9.69
+programmer designer,certify,9.33
+programmer designer,quality assurance,8.88
+programmer designer,problemsolving communication,8.64
+programmer designer,assurance,8.32
+programmer designer,computer science,8.21
+programmer developer,Excel,100.0
+programmer developer,AWS,100.0
+programmer developer,SQL,100.0
+programmer developer,Docker,100.0
+programmer developer,R,100.0
+programmer developer,IBM,100.0
+programmer developer,Python,100.0
+programmer developer,Azure,100.0
+programmer developer,Kubernetes,100.0
+programmer developer,GAN,100.0
+programmer manager,R,100.0
+programmer manager,estimate,12.54
+programmer manager,commitment,11.39
+programmer manager,job,10.57
+programmer manager,quality control,10.57
+programmer manager,center,10.04
+programmer manager,safety,9.69
+programmer manager,machine,9.14
+programmer manager,troubleshoot,8.97
+programmer manager,high,8.7
+programmer operator,R,100.0
+programmer operator,Excel,100.0
+programmer operator,GAN,100.0
+programmer operator,machine,20.69
+programmer operator,program,17.89
+programmer operator,operation,11.87
+programmer operator,drawings,8.29
+programmer operator,control,8.08
+programmer operator,tool,6.94
+programmer operator,stock,6.89
+programmer programmer,R,100.0
+programmer programmer,Python,100.0
+programmer programmer,Tableau,100.0
+programmer programmer,Azure,100.0
+programmer programmer,Power BI,100.0
+programmer programmer,SQL,100.0
+programmer programmer,data,23.35
+programmer programmer,bi,10.88
+programmer programmer,science,10.5
+programmer programmer,sql,9.43
+researcher,Regression,100.0
+researcher,Sustainability,100.0
+researcher,LSTM,100.0
+researcher,Tableau,100.0
+researcher,SVM,100.0
+researcher,Pattern,100.0
+researcher,Hadoop,100.0
+researcher,Matrix,100.0
+researcher,TensorFlow,100.0
+researcher,Generative Adversarial Network,100.0
+researcher analyst,R,100.0
+researcher analyst,analysis,15.63
+researcher analyst,experience customer,11.32
+researcher analyst,experience,10.79
+researcher analyst,remote,9.77
+researcher analyst,hybrid,9.36
+researcher analyst,stakeholder management,9.36
+researcher analyst,map,9.05
+researcher analyst,user,8.29
+researcher analyst,stakeholder,8.24
+researcher data,R,100.0
+researcher data,Python,100.0
+researcher data,PyTorch,100.0
+researcher data,TensorFlow,100.0
+researcher data,GAN,100.0
+researcher data,SAS,100.0
+researcher data,Excel,100.0
+researcher data,data,18.19
+researcher data,research,16.61
+researcher data,information,11.02
+researcher data analyst,R,100.0
+researcher data analyst,SAS,100.0
+researcher data analyst,data,21.18
+researcher data analyst,survey,14.99
+researcher data analyst,evaluation,12.89
+researcher data analyst,research,9.21
+researcher data analyst,clean,7.91
+researcher data analyst,development,7.87
+researcher data analyst,analysis,7.28
+researcher data analyst,interpretation,6.36
+researcher manager,R,100.0
+researcher manager,GAN,100.0
+researcher manager,Ethics,100.0
+researcher manager,research,35.65
+researcher manager,experience,13.01
+researcher manager,master,7.91
+researcher manager,master degree,7.75
+researcher manager,team,7.29
+researcher manager,agile,6.29
+researcher manager,legal,5.78
+researcher researcher,R,100.0
+researcher researcher,GAN,100.0
+researcher researcher,Excel,100.0
+researcher researcher,equipment,12.47
+researcher researcher,techniques,11.58
+researcher researcher,research,10.76
+researcher researcher,experience,10.56
+researcher researcher,culture,10.08
+researcher researcher,data,9.9
+researcher researcher,relevant,9.7
+sales,Sustainability,100.0
+sales,Tableau,100.0
+sales,chatbot,100.0
+sales,Pattern,100.0
+sales,Hadoop,100.0
+sales,Matrix,100.0
+sales,Django,100.0
+sales,MongoDB,100.0
+sales,Threats,100.0
+sales,Excel,100.0
+sales accountant,R,100.0
+sales accountant,AWS,100.0
+sales accountant,Excel,100.0
+sales accountant,GAN,100.0
+sales accountant,tax,42.85
+sales accountant,return,17.81
+sales accountant,sales,8.55
+sales accountant,account,8.14
+sales accountant,compliance,5.97
+sales accountant,certificate,3.46
+sales administrator,R,100.0
+sales administrator,Azure,100.0
+sales administrator,Power BI,100.0
+sales administrator,Excel,100.0
+sales administrator,GAN,100.0
+sales administrator,sales,16.54
+sales administrator,microsoft,15.85
+sales administrator,management,12.17
+sales administrator,contract,9.78
+sales administrator,administration,8.72
+sales administrator manager,R,100.0
+sales administrator manager,management,16.36
+sales administrator manager,customer,11.0
+sales administrator manager,microsoft,10.14
+sales administrator manager,data,9.13
+sales administrator manager,motivation,9.09
+sales administrator manager,customer service communication,9.02
+sales administrator manager,customer relationship management,8.95
+sales administrator manager,customer relationship,8.82
+sales administrator manager,service communication,8.75
+sales analyst,Sustainability,100.0
+sales analyst,Tableau,100.0
+sales analyst,Excel,100.0
+sales analyst,Ethics,100.0
+sales analyst,Google Cloud,100.0
+sales analyst,adobe,100.0
+sales analyst,AWS,100.0
+sales analyst,SQL,100.0
+sales analyst,Docker,100.0
+sales analyst,R,100.0
+sales analyst manager,R,100.0
+sales analyst manager,GAN,100.0
+sales analyst manager,Excel,100.0
+sales analyst manager,sales,16.23
+sales analyst manager,analysis,15.4
+sales analyst manager,management,13.39
+sales analyst manager,business,10.0
+sales analyst manager,data,8.97
+sales analyst manager,plan,7.69
+sales analyst manager,analytical,7.54
+sales auditor,R,100.0
+sales auditor,Excel,100.0
+sales auditor,Spark,100.0
+sales auditor,Ethics,100.0
+sales auditor,tax,30.19
+sales auditor,account,14.94
+sales auditor,audit,13.11
+sales auditor,finance,8.7
+sales auditor,account principles,6.3
+sales auditor,account finance,5.89
+sales banking,R,100.0
+sales banking,management,18.86
+sales banking,sales,16.32
+sales banking,target,11.7
+sales banking,development,10.06
+sales banking,case management,7.85
+sales banking,account,7.77
+sales banking,systems,7.7
+sales banking,insurance pay,6.86
+sales banking,loan,6.44
+sales consultant,Sustainability,100.0
+sales consultant,Tableau,100.0
+sales consultant,Pattern,100.0
+sales consultant,Matrix,100.0
+sales consultant,GAN,100.0
+sales consultant,Excel,100.0
+sales consultant,Ethics,100.0
+sales consultant,Google Cloud,100.0
+sales consultant,Cybersecurity,100.0
+sales consultant,adobe,100.0
+sales consultant accountant,R,100.0
+sales consultant accountant,insurance,17.39
+sales consultant accountant,sales,14.82
+sales consultant accountant,benefit,11.8
+sales consultant accountant,time,8.89
+sales consultant accountant,dental insurance vision,7.93
+sales consultant accountant,lead generation,7.93
+sales consultant accountant,insurance dental insurance,7.86
+sales consultant accountant,insurance vision insurance,7.79
+sales consultant accountant,insurance dental,7.79
+sales consultant manager,Sustainability,100.0
+sales consultant manager,R,100.0
+sales consultant manager,sales,17.0
+sales consultant manager,plan,10.74
+sales consultant manager,pay,10.39
+sales consultant manager,health,9.64
+sales consultant manager,sell,9.18
+sales consultant manager,pay holiday,9.02
+sales consultant manager,sales customer,8.64
+sales consultant manager,pension,8.64
+sales consultant sales,R,100.0
+sales consultant sales,Excel,100.0
+sales consultant sales,sales,21.1
+sales consultant sales,management,11.84
+sales consultant sales,microsoft,9.49
+sales consultant sales,service,9.19
+sales consultant sales,communication,9.09
+sales consultant sales,license,9.03
+sales consultant sales,office,8.09
+sales consultant sales,customer service,7.57
+sales data,Hadoop,100.0
+sales data,Excel,100.0
+sales data,Ethics,100.0
+sales data,Google Cloud,100.0
+sales data,adobe,100.0
+sales data,AWS,100.0
+sales data,R,100.0
+sales data,IBM,100.0
+sales data,Azure,100.0
+sales data,Snowflake,100.0
+sales data analyst,R,100.0
+sales data analyst,Power BI,100.0
+sales data analyst,Excel,100.0
+sales data analyst,microsoft,16.97
+sales data analyst,data,15.29
+sales data analyst,analysis,13.13
+sales data analyst,data analysis,8.95
+sales data analyst,power bi,8.51
+sales data analyst,bi,8.31
+sales data analyst,power,7.84
+sales designer,R,100.0
+sales designer,Excel,100.0
+sales designer,GAN,100.0
+sales designer,sales,23.92
+sales designer,kitchen,12.61
+sales designer,management,10.8
+sales designer,communication,8.35
+sales designer,experience,7.92
+sales designer,software,7.89
+sales designer,customer service,7.75
+sales developer,R,100.0
+sales developer,sales,21.35
+sales developer,client relations,10.6
+sales developer,interpersonal communication,9.44
+sales developer,relations,9.2
+sales developer,relationship build,8.97
+sales developer,negotiation,8.6
+sales developer,strategy,8.4
+sales developer,client,8.03
+sales developer,relationship,7.85
+sales manager,Regression,100.0
+sales manager,Sustainability,100.0
+sales manager,Tableau,100.0
+sales manager,Pattern,100.0
+sales manager,Matrix,100.0
+sales manager,MongoDB,100.0
+sales manager,Threats,100.0
+sales manager,Excel,100.0
+sales manager,Spark,100.0
+sales manager,Ethics,100.0
+sales manager data,R,100.0
+sales manager data,Excel,100.0
+sales manager data,sales,22.29
+sales manager data,customer,17.3
+sales manager data,sales management,9.03
+sales manager data,analysis,8.46
+sales manager data,market,7.96
+sales manager data,center,7.81
+sales manager data,growth,7.25
+sales manager data,relationships,6.85
+sales manager developer,R,100.0
+sales manager developer,sales,17.32
+sales manager developer,leave,11.57
+sales manager developer,initiative,11.49
+sales manager developer,flexible,10.99
+sales manager developer,performance,9.31
+sales manager developer,program,8.37
+sales manager developer,market,8.25
+sales manager developer,plan,8.21
+sales manager developer,mental,7.28
+sales manager manager,Sustainability,100.0
+sales manager manager,R,100.0
+sales manager manager,Excel,100.0
+sales manager manager,sales,24.5
+sales manager manager,sales management,18.04
+sales manager manager,management,13.23
+sales manager manager,customer,7.9
+sales manager manager,proactive,6.43
+sales manager manager,market,6.36
+sales manager manager,inventory,6.03
+sales manager sales,R,100.0
+sales manager sales,Excel,100.0
+sales manager sales,GAN,100.0
+sales manager sales,sales,26.84
+sales manager sales,management,13.9
+sales manager sales,customer,7.94
+sales manager sales,customer relationship management,7.6
+sales manager sales,relationship,7.55
+sales manager sales,customer relationship,7.49
+sales manager sales,plan,7.48
+sales marketing,R,100.0
+sales marketing,adobe,100.0
+sales marketing,AWS,100.0
+sales marketing,GAN,100.0
+sales marketing,SQL,100.0
+sales marketing,Excel,100.0
+sales marketing,Ethics,100.0
+sales marketing,sales,25.37
+sales marketing,market,18.72
+sales marketing,management,13.87
+sales marketing administrator,R,100.0
+sales marketing administrator,adobe,100.0
+sales marketing administrator,Excel,100.0
+sales marketing administrator,GAN,100.0
+sales marketing administrator,management,15.15
+sales marketing administrator,energy,14.42
+sales marketing administrator,management systems,9.33
+sales marketing administrator,systems,9.27
+sales marketing administrator,microsoft office,9.01
+sales marketing administrator,content,8.94
+sales marketing analyst,Tableau,100.0
+sales marketing analyst,Excel,100.0
+sales marketing analyst,AWS,100.0
+sales marketing analyst,SQL,100.0
+sales marketing analyst,R,100.0
+sales marketing analyst,Python,100.0
+sales marketing analyst,Azure,100.0
+sales marketing analyst,Power BI,100.0
+sales marketing analyst,SAS,100.0
+sales marketing analyst,analysis,14.77
+sales marketing consultant,R,100.0
+sales marketing consultant,Excel,100.0
+sales marketing consultant,market,26.87
+sales marketing consultant,sales,12.54
+sales marketing consultant,train,10.11
+sales marketing consultant,content,8.55
+sales marketing consultant,social media,8.55
+sales marketing consultant,google,7.81
+sales marketing consultant,media,7.71
+sales marketing consultant,social,7.53
+sales marketing manager,R,100.0
+sales marketing manager,adobe,100.0
+sales marketing manager,Tableau,100.0
+sales marketing manager,AWS,100.0
+sales marketing manager,Excel,100.0
+sales marketing manager,GAN,100.0
+sales marketing manager,market,22.36
+sales marketing manager,sales,22.16
+sales marketing manager,sales market,12.67
+sales marketing manager,management,12.01
+sales marketing marketing consultant,R,100.0
+sales marketing marketing consultant,Excel,100.0
+sales marketing marketing consultant,GAN,100.0
+sales marketing marketing consultant,invoice,11.8
+sales marketing marketing consultant,continuous improvement,11.12
+sales marketing marketing consultant,purchase,10.38
+sales marketing marketing consultant,continuous,10.3
+sales marketing marketing consultant,write verbal,10.23
+sales marketing marketing consultant,order,9.69
+sales marketing marketing consultant,concepts,9.26
+sales operator,R,100.0
+sales operator,sales,14.26
+sales operator,crm,12.4
+sales operator,network,10.48
+sales operator,management,9.74
+sales operator,business,9.7
+sales operator,account management,8.9
+sales operator,client,8.88
+sales operator,business development,8.85
+sales operator,relationship,8.69
+sales sales,R,100.0
+sales sales,Python,100.0
+sales sales,GAN,100.0
+sales sales,SQL,100.0
+sales sales,Excel,100.0
+sales sales,Ethics,100.0
+sales sales,sales,26.54
+sales sales,customer,11.97
+sales sales,service,9.99
+sales sales,management,9.21
+sales sales manager,R,100.0
+sales sales manager,Excel,100.0
+sales sales manager,return,15.81
+sales sales manager,statement,14.59
+sales sales manager,sales,14.23
+sales sales manager,microsoft,11.64
+sales sales manager,loss,8.06
+sales sales manager,profit,7.83
+sales sales manager,call,7.18
+sales sales manager,sheet,6.96

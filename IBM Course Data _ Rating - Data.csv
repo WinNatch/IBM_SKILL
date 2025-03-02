@@ -1,0 +1,599 @@
+Learning_Path,Specific_Learning_Path,Course_Name,Level,Duration,Rating,Desciption,ILO,Tags,Other_Language_Support,URL,Prerequisites
+AI,Artificial Intelligence Fundamentals,Introduction to Artificial Intelligence,Beginners,1h 15m,4.5,"Less than a century old, artificial intelligence (AI) has already undergone three waves of transformative development. Today it gives humanity the most powerful tools for analyzing complex data, not only to find meaning but to learn without human intervention. In this course, you’ll survey AI’s history and explore ways that it can shed light on unstructured data.","Define artificial intelligence
+Describe three levels of artificial intelligence
+Describe the history of AI from the past to the possible future
+Define and describe machine learning
+Differentiate between structured and unstructured data
+Describe how machine learning structures data
+Describe how machine learning structures unstructured data
+Describe how machine learning uses probabilistic calculation to solve problems
+Describe three methods by which machine learning analyzes data
+Describe an ideal relationship between humans and machine learning","Badge Learning, Artificial Intelligence Fundamentals, Initiatives, SDI, Learning Domain, Technical_skills, Learning Domain Primary, Artificial Intelligence, Lightcast Skills Taxonomy, Artificial Intelligence Skill, Machine Learning Skill","Czech, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/MDL-211?planId=PLAN-7913EE1DB030&sectionId=SECTION-A&planIdFromParentTab=PLAN-7913EE1DB030&sectionIdFromParentTab=SECTION-A&planIdForChildTab=PLAN-7913EE1DB030&_gl=1*1qub09q*_ga*MTEwMzA0NjcxNS4xNzM3NjQwNDY3*_ga_FYECCCS21D*MTczODkxNzk0My45LjEuMTczODkyNDY4My4wLjAuMA..,
+AI,Generative AI in Action,Introduction to Generative AI,Beginners,1h 30m,4.5,"In this course, you’ll learn about the history of AI, how deep learning plays a pivotal role in generative AI (gen-AI), and how gen-AI works and is applied to various industries. You will also learn how to create algorithms, and gain hands-on experience writing code using popular programming languages.","Explain how generative artificial intelligence (gen-AI) works
+Define what foundation models are and their role in machine learning
+Understand how transformers models are used to solve various language-related tasks
+Describe how prompt engineering improve generative AI models
+Perform common programming tasks using Python's built-in functions and libraries
+Create scripts and code for solving real-world problems and automating routine tasks","Initiatives, SDI, Learning Domain, Technical Skills- Artificial Learning, Learning Domain Primary, Artificial Intelligence",English,https://skills.yourlearning.ibm.com/activity/MDL-388,
+AI,Artificial Intelligence Fundamentals,AI Ethics,Beginners,1h 45m,4,"You might have heard about problems that arise when AI systems misinterpret data or propose solutions that reflect human prejudice. In this course, you’ll learn about the five pillars of AI ethics: fairness, robustness, explainability, transparency, and privacy. Through real-world examples you’ll learn about AI ethics, how they are implemented, and why AI ethics are so important in building trustworthy AI systems.","Identify the five pillars of AI ethics
+Describe fairness in AI
+Describe protected attributes
+Identify privileged groups and unprivileged groups
+Explain AI bias
+Identify robustness
+Describe adversarial robustness within AI
+Explain how an adversary can influence an AI system
+Identify adversarial attacks
+Describe explainability
+Compare interpretability and explainability
+Define transparency
+Describe governance
+Identify the business roles and the aspects of transparency they are involved in
+Identify personal information
+Identify sensitive personal information
+Recognize model anonymization
+Describe differential privacy
+Explain data minimization","Badge Learning, Explore Emerging Tech, Learning Domain, Other-Emerging Technologies, Technical Skills- Artificial Intelligence, Learning Domain Primary, Artificial Intelligence, TryB4, All TryB4, Lightcast Skills Taxonomy, Artificial Intelligence Skill, Governance Skill","Czech, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/MDL-220?planId=PLAN-7913EE1DB030&sectionId=SECTION-A&planIdFromParentTab=PLAN-7913EE1DB030&sectionIdFromParentTab=SECTION-A&planIdForChildTab=PLAN-7913EE1DB030&_gl=1*1v3gat9*_ga*MTEwMzA0NjcxNS4xNzM3NjQwNDY3*_ga_FYECCCS21D*MTczODkxNzk0My45LjEuMTczODkyNDY4NS4wLjAuMA..,
+AI,Explore Emerging Tech,What is Artificial Intelligence?,Fundamental,45m,4.5,"Can a computer really think? Learn how experts answer this question, and explore concepts like machine learning and deep learning.",,,"English, German, French, Spanish, Portuguese (Brazil), Polish, Turkish, Korean, Traditional Chinese, Italian, Arabic, Hindi, and Japanese",,
+AI,Artificial Intelligence Fundamentals,Natural Language Processing and Computer Vision,Advanced,1h 30m,4.5,"You might already know that some artificial intelligence systems can understand human language, identify visual images, and even create original art. But do you know how these systems do it? In this course, you’ll explore the theory of natural language and vision processing, and learn how these technologies drive real-world mechanisms such as chatbots and photo analysis.","Define natural language processing
+Explain how AI uses natural language processing to derive meaning from text
+Explain the classification problem and its solutions
+Describe how a chatbot understands, reasons, learns, and interacts with users
+Distinguish between intents, entities, and dialogs
+Identify appropriate uses for chatbots
+Identify real-world uses for natural language processing (NLP)
+Describe how AI classifies images to derive meaning from them
+Describe how a convolutional neural network(CNN) analyzes an image
+Describe how a generative adversarial network (GAN) creates a credible image
+Identify real-world uses for computer vision","Badge Learning, Artificial Intelligence Fundamentals, Initiatives, SDI, Learning Domain, Technical_skills, Learning Domain Primary, Artificial Intelligence, Lightcast Skills Taxonomy, Artificial Intelligence Skill, Natural Language Processing Skill","Czech, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/MDL-214?planId=PLAN-7913EE1DB030&sectionId=SECTION-B&planIdFromParentTab=PLAN-7913EE1DB030&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-7913EE1DB030,
+AI,Artificial Intelligence Fundamentals,Machine Learning and Deep Learning,Advanced,2h,4.5,"In this course, you’ll see how machines can learn and make amazing, evidence-based predictions. Explore the logic behind computers’ ability to learn, then investigate new ways that AI systems inspired by neurons in the human brain can solve difficult problems.","Distinguish between artificial intelligence, machine learning, and deep learning
+Describe supervised, unsupervised, and reinforcement learning
+Describe decision trees, linear regression, and logistic regression
+List and explain advantages of classical machine learning
+Describe how neural networks are inspired by the human brain
+Trace the flow of information through a perceptron’s nodes
+Describe machine learning’s trial-and-error learning process
+Define and describe deep learning and its ecosystem
+Identify real-world applications for the deep learning ecosystem
+Identify future trends for machine learning","Badge Learning, Artificial Intelligence Fundamentals, Initiatives, SDI, Learning Domain, Technical_skills, Learning Domain Primary, Artificial Intelligence, Lightcast Skills Taxonomy, Artificial Intelligence Skill, Machine Learning Skill","Czech, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/MDL-212?planId=PLAN-7913EE1DB030&sectionId=SECTION-A&planIdFromParentTab=PLAN-7913EE1DB030&sectionIdFromParentTab=SECTION-A&planIdForChildTab=PLAN-7913EE1DB030&_gl=1*97x1uh*_ga*MTEwMzA0NjcxNS4xNzM3NjQwNDY3*_ga_FYECCCS21D*MTczODkxNzk0My45LjEuMTczODkyNDcwOS4wLjAuMA..,
+AI,Explore Emerging Tech,Artificial Intelligence in Practice,Advanced,40m,4.5,"What's it all for? From communicating with chatbots, to piloting self-driving cars, to solving complex global problems, AI is solving problems everywhere.",,"Badge Learning, Explore Emerging Tech, Learning Domain, Other-Emerging Technologies, Technical Skills- Artificial Intelligence, Learning Domain Primary, Artificial Intelligence, TryB4, All TryB4, Lightcast Skills Taxonomy, Artificial Intelligence Skill, Communication Skill","English, German, French, Spanish, Portuguese (Brazil), Polish, Turkish, Korean, Traditional Chinese, Italian, Arabic, Hindi, and Japanese",https://skills.yourlearning.ibm.com/activity/ILB-ZKVJNXVZKMZXEWGN?_gl=1*crqqnj*_ga*MTEwMzA0NjcxNS4xNzM3NjQwNDY3*_ga_FYECCCS21D*MTczODkxNzk0My45LjEuMTczODkyNTA0My4wLjAuMA..,
+AI,Artificial Intelligence Fundamentals,Run AI Models with IBM Watson Studio,"Advanced, Experience",1h 45m,4.5,"In this course, you’ll practice creating an AI machine learning model in a series of simulations, using IBM Watson Studio.","Describe machine learning algorithms and models
+Explain the purpose of IBM Watson Studio
+Describe the key features and benefits of IBM Watson Studio
+Set up a machine learning project in IBM Watson Studio
+Create a Cloud Object Storage resource
+Import a data set into IBM Watson Studio
+Build an AI model using AutoAI in IBM Watson Studio
+Run a prediction experiment for an AI model
+Explain the confusion matrix
+Save a model as a Jupyter Notebook
+Download a notebook in Jupyter Notebook (.ipynb) format","Badge Learning, Artificial Intelligence Fundamentals, Initiatives, SDI, Learning Domain, Technical_skills, Learning Domain Primary, Artificial Intelligence, Lightcast Skills Taxonomy, Artificial Intelligence Skill, Machine Learning Skill","Czech, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/MDL-219?planId=PLAN-7913EE1DB030&sectionId=SECTION-B&planIdFromParentTab=PLAN-7913EE1DB030&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-7913EE1DB030,
+AI,Artificial Intelligence Fundamentals,Mastering the Art of Prompt Writing,Experience,1h,4.5,"This is an activity-based course. You'll learn about AI language models and the rules to follow when giving instructions, or prompting, an AI language model. You'll walk-through a guided activity that demonstrates how to write effective prompts for an AI language model to help plan a travel itinerary. Finally, you'll participate in an activity to apply what you've learned to effectively write prompts for an AI language model to create your own custom music playlist.","Describe an AI language model
+Explain how an AI language model understands and responds to humans
+Identify the rules to follow to write effective prompts to generate focused and accurate results from an AI language model
+List the steps to sign up for a ChatGPT account
+Follow the steps to effectively write and refine a series of prompts for ChatGPT for a travel itinerary scenario
+Demonstrate the steps to effectively write and refine a series of prompts for ChatGPT to create a custom music playlist","Initiatives, SDI, Learning Domain, Technical Skills-Artificial Intelligence, Learning Domain Primary, Artificial Intelligence","English, Brazilian Portuguese, Czech, French, Japanese, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-298?channelId=CNL_LCB_1567443069285&channelNavigation=true,
+AI ,Generative AI in Action,Crafting Precision Prompts with Generative AI,Experience,1h,4.5,"This is an activity-based course. You'll learn about AI language models and the rules to follow when giving instructions, or prompting, an AI language model. You'll walk-through a guided activity that demonstrates how to write effective prompts for an AI language model to help plan a travel itinerary. Finally, you'll participate in an activity to apply what you've learned to effectively write prompts for an AI language model to create your own custom music playlist.","Describe an AI language model
+Explain how an AI language model understands and responds to humans
+Identify the rules to follow to write effective prompts to generate focused and accurate results from an AI language model
+List the steps to sign up for a ChatGPT account
+Follow the steps to effectively write and refine a series of prompts for ChatGPT for a travel itinerary scenario
+Demonstrate the steps to effectively write and refine a series of prompts for ChatGPT to create a custom music playlist","Administrative, NotSearchable, Initiatives, SDI, Learning Domain, Technical Skills- Artificial Intelligence, Learning Domain Primary, Artificial Intelligence",English,https://skills.yourlearning.ibm.com/activity/MDL-462,
+AI,Generative AI in Action,Coding Simplified with Generative AI,Experience,3h,4.5,"Welcome to Coding Simplified with Generative AI! In this course, you will learn the basics of scripting, understand its distinctions from traditional programming, and explore how generative AI models are used to simplify and streamline code generation. Through hands-on labs, you'll also learn how to create algorithms and apply your skills using widely used programming languages.",,"Administrative, NotSearchable, Initiatives, SDI, Learning Domain, Technical Skills- Artificial Intelligence, Learning Domain Primary, Artificial Intelligence, npo_orgs",English,https://skills.yourlearning.ibm.com/activity/MDL-389?planId=PLAN-9E14CB5C4540&sectionId=SECTION-B&planIdFromParentTab=PLAN-9E14CB5C4540&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-9E14CB5C4540,
+AI,,How is technology used in tennis?,Experience,15m,5,"Emerging technologies are revolutionizing the way people play and experience the game of tennis. From the introduction of AI to the analysis of data, these technologies provide a richer experience for fans. In this micro learning activity, you will be introduced to the various emerging technologies that are used in professional tennis. You will explore the technology behind new innovations like electronic line calling, player and match analytics and insights, and enhanced broadcasting and highlights.",,,,https://skills.yourlearning.ibm.com/activity/MDL-508,
+AI,Artificial Intelligence Fundamentals,The Money Maker Gans Game,Experience,10m,4.5,"In this game, you'll learn more about the generative adversarial network (GAN) process and the relationship that exists between the generator (a criminal) and discriminator (you) in producing and identifying genuine and counterfeit banknotes.",,"Learning Domain, Technical Skills-Data, Technical Skills- Artificial Intelligence, Learning Domain Primary, Artificial Intelligence","English, Brazilian Portuguese, Chinese (Traditional), Czech, French, German, Hindi, Japanese, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-317?planId=PLAN-7913EE1DB030&sectionId=SECTION-C&planIdFromParentTab=PLAN-7913EE1DB030&sectionIdFromParentTab=SECTION-C&planIdForChildTab=PLAN-7913EE1DB030,
+AI,Generative AI in Action,Improve Your Resume Writing with Generative AI,"Experience, Job",40m,4.5,"In this activity-based course, you'll complete a guided activity that demonstrates how to co-write or update your resume using generative AI.
+
+It is recommended that prior to this course, you complete Master the Art of Prompting and Create a Great Professional Resume.","Identify the rules to follow to write effective prompts to generate focused and accurate results from an AI language model
+Follow the steps to effectively write and refine a series of prompts for generative AI for your resume
+Demonstrate the steps to effectively write and refine your resume","Learning Domain, Workplace Skills- Workforce readiness, Technological Skills - Artificial Intelligence, Learning Domain Primary, Aritificial Intelligence",English,https://skills.yourlearning.ibm.com/activity/ILB-XVZNEXKGDVQN2PD3,
+AI,Artificial Intelligence Fundamentals,Your Future in AI: The Job Landscape,Job,1h,4.5,"Are you considering a career in artificial intelligence? In this course, learn about the AI job market’s rapid growth and the skills needed for success in this exciting field. You’ll hear how real professionals got their start, and find resources and learning opportunities that could help you work alongside them.","Identify industries in which AI professionals work
+Recognize the global demand for AI specialists in the job market
+Describe a possible future for AI
+Identify the primary responsibilities and skillsets for different job roles in AI
+Identify the skills that AI professionals need
+Identify the tools to know when starting out in the field
+Identify resources to learn more and stay up to date in the field of artificial intelligence","Administrative, NotSearchable, Initiatives, SDI, Learning Domain, Technical Skills- Artificial Intelligence, Learning Domain Primary, Artificial Intelligence","Czech, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/MDL-213?planId=PLAN-7913EE1DB030&sectionId=SECTION-B&planIdFromParentTab=PLAN-7913EE1DB030&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-7913EE1DB030,
+Data,Agile Explorer,A Taste of Agile,Beginners,2h 50m,4.5,"A Taste of Agile is designed to provide a basic awareness of Agile work methods, and how you can use them to change the way you work in academics, on the job, or even in your personal life. The course provides a foundational understanding of the values, principles, practices, and patterns of Agile, and the team dynamics that create success.
+
+A Taste of Agile is appropriate for everyone: students, workforce-facing team members, executives, managers, and practitioners.",,"Badge Learning, Agile Explorer, Learning Domain, Workplace Skills- Workforce readiness, Lightcast Skills Taxonomy, Agile Methodology Skill","English, Spanish, Brazilian Portuguese, Hindi, Japanese, French, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/ILB-GYEGEDYJNEVY1Y3V?planId=PLAN-F8CBF9ECCA49&sectionId=SECTION-B&planIdFromParentTab=PLAN-F8CBF9ECCA49&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-F8CBF9ECCA49,
+Data,Agile Explorer,Agile Operations Fundamentals,Beginners,2h 5m,4.5,"Agile Operations Fundamentals is designed to help operational teams develop the foundational skills to plan, structure, deliver, monitor, and improve on operational activities and processes. These skills can be used in school, on the job, and in your personal life. This course builds on the foundational awareness from A Taste of Agile, through an operations pattern that provides guidance on recommended practices, tools, and techniques that align to the core Agile values and principles.
+
+Agile Operations Fundamentals is appropriate for everyone: students, workforce-facing team members, executives, managers, and practitioners.",,"Badge Learning, Agile Explorer, Learning Domain, Workplace Skills- Workforce readiness, Lightcast Skills Taxonomy, Agile Methodology Skill","English, Spanish, Brazilian Portuguese, Hindi, Japanese, French, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/ILB-RKEVEWMRKEGN7JAB?planId=PLAN-F8CBF9ECCA49&sectionId=SECTION-B&planIdFromParentTab=PLAN-F8CBF9ECCA49&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-F8CBF9ECCA49,
+Data,Agile Explorer,Agile Program Fundamentals,Beginners,2h 10m,4.5,"Agile Program Fundamentals is designed to help project teams develop the foundational skills to plan, structure, and deliver on programs and projects incrementally and iteratively. This course builds on the foundational awareness from A Taste of Agile and Agile Operations Fundamentals. You will learn the project pattern and receive guidance on recommended practices, tools, and techniques that align to the core Agile values and principles.",,"Badge Learning, Agile Explorer, Learning Domain, Workplace Skills- Workforce readiness, Lightcast Skills Taxonomy, Agile Methodology Skill, Operations Skill","English, Spanish, Brazilian Portuguese, Hindi, Japanese, French, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/ILB-JYKQKJZGVPVZ3QNZ?planId=PLAN-F8CBF9ECCA49&sectionId=SECTION-B&planIdFromParentTab=PLAN-F8CBF9ECCA49&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-F8CBF9ECCA49,
+Data,Project Management Fundamentals,Project Management Fundamentals,Fundamental,3h 30m,4.5,This course introduces you to the basic principles of project management and what it takes to be a successful project manager.,"Common project management terms
+The value of project management
+Project management approaches: Waterfall, Agile, and Hybrid
+The role, overall responsibilities, and competencies of a project manager
+The purpose of the phases of a project: Initiate and Plan, Execute, and Close
+The key tasks that a project manager performs in each project phase
+The overall job market and common industry certifications to consider in the project management field","Badge Learning, 000 All Digital Credentials, Project Management Fundamentals, Fundamentals, All Fundamentals, Learning Domain, Technical Skills - IT Project Management, Lightcast Skills Taxonomy, Agile Methodology Skill",,https://skills.yourlearning.ibm.com/activity/ILB-DNRVRVRGKDNQPQ9X,
+Data,Data Fundamentals,Introduction to Data Concepts,Advanced,1h 15m,4.5,"Agile Program Fundamentals is appropriate for everyone: students, workforce-facing team members, executives, managers, and practitioners.","Explain the importance of data in a digital world
+Differentiate between unstructured and structured data
+Identify the purpose of a database
+Differentiate between quantitative and qualitative data
+Describe the five V’s of big data
+Describe the four types of data analytics
+Explain the work involved in each step of the data analysis process
+Identify the purpose of a data visualization
+Recognize different charts to display data visualizations in the best way",,"English, Arabic, French",https://skills.yourlearning.ibm.com/activity/MDL-215,
+Data,Data Fundamentals,Data Science in Our World,Advanced,2h,4.5,"In this course, you will learn about the field of data science, including widely adopted methodologies, an example project as it moves through the steps of a data science methodology, the application of data science in our world, and the role of data scientists and their colleagues.","Define data science
+Recognize the importance of being curious to solve problems with data
+Differentiate between the fields of data analytics and data science
+Identify three widely adopted data science methodologies
+Explore a data project scenario and identify key tasks as it moves through a methodology
+Recognize industries and applications of data science that help solve problems and discover innovations
+Compare the roles and characteristics of a data analyst, data scientist, and data engineer
+","Badge Learning, Data Fundamentals, Learning Domain, Technical Skills-Data, Learning Domain Primary, Data, Lightcast Skills Taxonomy, Data Analysis Skill, Data Science Skills","English, Arabic, French",https://skills.yourlearning.ibm.com/activity/MDL-216,
+Data,Data Fundamentals,Overview of Data Tools and Languages,Advanced,1h 30m,4.5,"In this course, you will get an introduction to common data analysis and visualization tools so you’re familiar with them and can recognize how data science projects use them.","Recognize the value of collaborating and using open source in the field of data science
+Identify the purpose of GitHub
+Identify the purpose of a selection of common tools to analyze and visualize data, including:
+Microsoft Excel
+Google Sheets
+Structured Query Language (SQL)
+Python
+IBM Watson Studio
+Tableau
+Matplotlib
+Identify factors businesses can consider when selecting a data transformation tool
+Identify factors individuals can consider when selecting a data transformation tool","Badge Learning, Data Fundamentals, Learning Domain, Technical Skills-Data, Learning Domain Primary, Data, Lightcast Skills Taxonomy, Data Analysis Skill, Data Science Skills, Microsoft Excel Skill, Python, Data Analysis Skill, Tableau, SQL","English, Arabic, French",https://skills.yourlearning.ibm.com/activity/MDL-221,
+Data,Data Fundamentals,"Clean, Refine, and Visualise Data with IBM Watsonx Studio",Advanced,1h 35m,4.5,"In this course, you will practice cleaning, refining, and visualizing data, in a series of simulations, using IBM Watson Studio with the data refinery tool.","Explain the purpose and key features of IBM Watson Studio
+Set up a new project in IBM Watson Studio
+Import a data set
+Clean data using the data refinery tool
+Refine data using the data refinery tool
+Create a data visualization
+Conclude insights from a data visualization
+","Badge Learning, Data Fundamentals, Learning Domain, Technical Skills- Data, Learning Domain Primary, Data","English, Arabic, French",https://skills.yourlearning.ibm.com/activity/MDL-217?planId=PLAN-BC0FAEE8E439&sectionId=SECTION-B&planIdFromParentTab=PLAN-BC0FAEE8E439&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-BC0FAEE8E439,
+Data ,Emerging Tech,"Techniques to Manage, Share, and Put Data to Work",Beginners,25m,4.5,Dive into applications of data science and machine learning. You'll see how programming languages like R and Python and visualization tools like Tableau and ggplot2 can help uncover data's deepest secrets.,,"Badge Learning, Explore Emerging Tech, Learning Domain, Other-Emerging Technologies, Technical Skills- Data, Learning Domain Primary, Data, Lightcast Skills Taxonomy, Machine Learning Skill, Tableau, Python, R, Data Science Skill","English, German, French, Spanish, Portuguese (Brazil), Polish, Turkish, Korean, Traditional Chinese, Italian, Arabic, Hindi, and Japanese",https://skills.yourlearning.ibm.com/activity/ILB-QPEKVQEKRYZG2KZ3?planId=PLAN-EB2D3DA31CF9&sectionId=SECTION-E&planIdFromParentTab=PLAN-EB2D3DA31CF9&sectionIdFromParentTab=SECTION-E&planIdForChildTab=PLAN-EB2D3DA31CF9,
+Data,Emerging Tech,Data Science in the Real World ,Fundamental,20m,4.5,"Explore what it's like to be a data scientist. From an overview of job opportunities to interviews with people currently working in data analysis, you'll get a feel for this exciting career.",,"Badge Learning, Explore Emerging Tech, Learning Domain, Other-Emerging Technologies, Technical Skills- Data, Learning Domain Primary, Data, Lightcast Skills Taxonomy, Data Science Skill, Data Analysis Skill","English, German, French, Spanish, Portuguese (Brazil), Polish, Turkish, Korean, Traditional Chinese, Italian, Arabic, Hindi, and Japanese",https://skills.yourlearning.ibm.com/activity/ILB-MKRZNDRZRGNJ2MXV,
+Data,Emerging Tech,What is Data Science?,Fundamental,30m,4.5,Learn why data science is like hunting for treasure! You'll get a closer look at the work and why you might choose it as your own career.,,"Badge Learning, Explore Emerging Tech, Learning Domain, Other-Emerging Technologies, Technical Skills- Data, Learning Domain Primary, Data, Lightcast Skills Taxonomy, Data Science Skill, Data Analysis Skill","English, German, French, Spanish, Portuguese (Brazil), Polish, Turkish, Korean, Traditional Chinese, Italian, Arabic, Hindi, and Japanese",https://skills.yourlearning.ibm.com/activity/ILB-VQNVGKNRKDYX44W6,
+Data,Data Fundamentals,Your Future in Data: The Job Landscape,Job,50m,4.5,"In this course, you will learn about the data job market and projections, the responsibilities and skill sets of a data analyst and data scientist, and resources and learning opportunities so you can explore more.","Recognize the global demand for data analysts and data scientists in the job market
+Recognize the future of the field of data analytics
+Identify industries in which data professionals work
+Identify the primary responsibilities of a data analyst and data scientist
+Identify the skills that data professionals need
+Identify the tools to know when starting out in the field
+Identify resources to learn more and stay up to date in the field of data science
+","Badge Learning, Data Fundamentals, Learning Domain, Workplace Skills- Workforce readiness, Technical Skills -Data, Learning Domain Primary, Data, Lightcast Skills taxonomy, Data Analysis Skill, Data Science Skill","English, Arabic, French",https://skills.yourlearning.ibm.com/activity/MDL-218?planId=PLAN-BC0FAEE8E439&sectionId=SECTION-B&planIdFromParentTab=PLAN-BC0FAEE8E439&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-BC0FAEE8E439,
+Data,IBM Partner Organisation,Introduction to Data Analytics,Application,,,,,,,,
+Data,IBM Partner Organisation,Excel Basics for Data Analytics,Application,,,,,,,,
+Data,IBM Partner Organisation,Data Visualization and Dashboards with Excel and Cognos,Application,,,,,,,,
+Data,IBM Partner Organisation,"Python for Data Science, AI&Development",Application,,,,,,,,
+Data,IBM Partner Organisation,Python Project for Data Science,Application,,,,,,,,
+Data,IBM Partner Organisation,Databases and SQL for Data Science with Python,Application,,,,,,,,
+Data,IBM Partner Organisation,Data Analysis with Python,Application,,,,,,,,
+Data,IBM Partner Organisation,Data Visualisation with Python,Application,,,,,,,,
+Data,IBM Partner Organisation,IBM Data Analyst Capston Project,Application,,,,,,,,
+Cybersecurity,Aglie Explorer,A Taste of Agile,Beginners,2h 50m,4.5,"A Taste of Agile is designed to provide a basic awareness of Agile work methods, and how you can use them to change the way you work in academics, on the job, or even in your personal life. The course provides a foundational understanding of the values, principles, practices, and patterns of Agile, and the team dynamics that create success.
+
+A Taste of Agile is appropriate for everyone: students, workforce-facing team members, executives, managers, and practitioners.",,"Badge Learning, Agile Explorer, Learning Domain, Workplace Skills- Workforce readiness, Lightcast Skills Taxonomy, Agile Methodology Skill","English, Spanish, Brazilian Portuguese, Hindi, Japanese, French, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/ILB-GYEGEDYJNEVY1Y3V?planId=PLAN-F8CBF9ECCA49&sectionId=SECTION-B&planIdFromParentTab=PLAN-F8CBF9ECCA49&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-F8CBF9ECCA49,
+Cybersecurity,Aglie Explorer,Agile Operations Fundamentals,Beginners,2h 5m,4.5,"Agile Operations Fundamentals is designed to help operational teams develop the foundational skills to plan, structure, deliver, monitor, and improve on operational activities and processes. These skills can be used in school, on the job, and in your personal life. This course builds on the foundational awareness from A Taste of Agile, through an operations pattern that provides guidance on recommended practices, tools, and techniques that align to the core Agile values and principles.
+
+Agile Operations Fundamentals is appropriate for everyone: students, workforce-facing team members, executives, managers, and practitioners.",,"Badge Learning, Agile Explorer, Learning Domain, Workplace Skills- Workforce readiness, Lightcast Skills Taxonomy, Agile Methodology Skill","English, Spanish, Brazilian Portuguese, Hindi, Japanese, French, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/ILB-RKEVEWMRKEGN7JAB?planId=PLAN-F8CBF9ECCA49&sectionId=SECTION-B&planIdFromParentTab=PLAN-F8CBF9ECCA49&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-F8CBF9ECCA49,
+Cybersecurity,Aglie Explorer,Agile Program Fundamentals,Beginners,2h 10m,4.5,"Agile Program Fundamentals is designed to help project teams develop the foundational skills to plan, structure, and deliver on programs and projects incrementally and iteratively. This course builds on the foundational awareness from A Taste of Agile and Agile Operations Fundamentals. You will learn the project pattern and receive guidance on recommended practices, tools, and techniques that align to the core Agile values and principles.",,"Badge Learning, Agile Explorer, Learning Domain, Workplace Skills- Workforce readiness, Lightcast Skills Taxonomy, Agile Methodology Skill, Operations Skill","English, Spanish, Brazilian Portuguese, Hindi, Japanese, French, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/ILB-JYKQKJZGVPVZ3QNZ?planId=PLAN-F8CBF9ECCA49&sectionId=SECTION-B&planIdFromParentTab=PLAN-F8CBF9ECCA49&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-F8CBF9ECCA49,
+Cybersecurity,Project Management Fundamentals,Project Management Fundamentals,Fundamental,3h 30m,4.5,This course introduces you to the basic principles of project management and what it takes to be a successful project manager.,"Common project management terms
+The value of project management
+Project management approaches: Waterfall, Agile, and Hybrid
+The role, overall responsibilities, and competencies of a project manager
+The purpose of the phases of a project: Initiate and Plan, Execute, and Close
+The key tasks that a project manager performs in each project phase
+The overall job market and common industry certifications to consider in the project management field","Badge Learning, 000 All Digital Credentials, Project Management Fundamentals, Fundamentals, All Fundamentals, Learning Domain, Technical Skills - IT Project Management, Lightcast Skills Taxonomy, Agile Methodology Skill",,https://skills.yourlearning.ibm.com/activity/ILB-DNRVRVRGKDNQPQ9X,
+Cybersecurity,Emerging Tech,What is cybersecurity?,Beginners,1h,4.5,"You already know ways to protect your devices from hackers. Now learn more about the threats and tactics used by cyberattackers, and dig into concepts like encryption and cryptography.",,"Badge Learning, Explore Emerging Tech, Learning Domain, Other-Emerging Technologies, Technical Skills- Cyber Security, Learning Domain Primary, Cybersecurity, TryB4, AllTryB4, Lightcast Skills Taxonomy, Cyber Security Skill","English, German, French, Spanish, Portuguese (Brazil), Polish, Turkish, Korean, Traditional Chinese, Italian, Arabic, Hindi, and Japanese",https://skills.yourlearning.ibm.com/activity/ILB-GYEGYEEDYPMJ6N5X?planId=PLAN-EB2D3DA31CF9&sectionId=SECTION-D&planIdFromParentTab=PLAN-EB2D3DA31CF9&sectionIdFromParentTab=SECTION-D&planIdForChildTab=PLAN-EB2D3DA31CF9,
+Cybersecurity,Emerging Tech,How is cybersecurity used?,Beginners,30m,4.5,"Learn about Havyn, the voice-enabled cybersecurity assistant, and watch a team in action as they isolate cyberattacks and shut down the threat. Then, try it for yourself and test your cyber-defense skills with the NOVA Cybersecurity Lab.",,"Badge Learning, Explore Emerging Tech, Learning Domain, Other-Emerging Technologies, Technical Skills- Cyber Security, Learning Domain Primary, Cybersecurity, TryB4, AllTryB4, Lightcast Skills Taxonomy, Cyber Security Skill","English, German, French, Spanish, Portuguese (Brazil), Polish, Turkish, Korean, Traditional Chinese, Italian, Arabic, Hindi, and Japanese",https://skills.yourlearning.ibm.com/activity/ILB-XVZEKQZWWNVN4M3Z,
+Cybersecurity,Emerging Tech,IBM and Cybersecurity,Beginners,30m,4.5,Get a feel for cybersecurity as a career. You'll see how IBM is helping clients defend against cyberattacks and respond to broader security threats. You’ll also learn about basic cybersecurity terminology and types of cyberattacks.,,"Badge Learning, Explore Emerging Tech, Learning Domain, Other-Emerging Technologies, Technical Skills- Cyber Security, Learning Domain Primary, Cybersecurity, TryB4, AllTryB4, Lightcast Skills Taxonomy, Cyber Security Skill","English, German, French, Spanish, Portuguese (Brazil), Polish, Turkish, Korean, Traditional Chinese, Italian, Arabic, Hindi, and Japanese",,
+Cybersecurity,Cybersecurity Fundamentals,Introduction to Cybersecurity,Advanced,1h 15m,4.5,"In this course, you’ll learn fundamental cybersecurity concepts. You will learn what cybersecurity is, including its objectives and key elements and the common misconceptions about it. You’ll discover core concepts for risk management and how they apply to cybersecurity. You’ll also explore legal and ethical considerations relevant to cybersecurity.","Identify the objectives of the CIA triad and their relevance in various cybersecurity scenarios
+Classify tasks by using the key elements of cybersecurity
+Explain the ways to apply risk management concepts to cybersecurity
+Describe common misconceptions about cybersecurity
+Describe common types of laws and ethical considerations for cybersecurity","Learning Domain, Technical Skills - Cybersecurity, Learning Domain Primary, Cybersecurity ","English, Arabic, Brazilian Portuguese, Czech, Dutch, French, German, Hindi, Italian, Japanese, Polish, Spanish, Traditional Chinese, Turkish and Ukrainian",https://skills.yourlearning.ibm.com/activity/MDL-403,
+Cybersecurity,Cybersecurity Fundamentals,Cybersecurity: On the Offense,Advanced,2h 50m,4.5,"In this course, you'll learn about the offensive side of cybersecurity. You'll discover the main types of threat actor or cyberattacker groups and their motivations, including money. You'll explore cyberattacks in detail, including the types of attacks and the techniques for planning attacks. You'll also examine several high-profile case studies of cyberattacks that demonstrate the large impact that such attacks can have.","Contrast the five main threat actor groups based on their profiles and characteristics
+Describe common types of cyberattacks
+Explain the overall structure of a typical cyberattack outlined in the Cyber Kill Chain framework
+Identify cyberattacker tactics and techniques by using the MITRE ATT&CK matrix
+Explain key elements of the cybercrime ecosystem
+Describe common social engineering techniques
+Describe open-source intelligence (OSINT) and standard sources that cyberattackers use
+Explain the purpose of and information provided by typical technical scanning techniques
+Perform network reconnaissance by using network scanning tools
+List the details and lessons learned from several high-profile cyberattacks","Learning Domain, Technical Skills - Cybersecurity, Learning Domain Primary, Cybersecurity ","English, Arabic, Brazilian Portuguese, Czech, Dutch, French, German, Hindi, Italian, Japanese, Polish, Spanish, Traditional Chinese, Turkish and Ukrainian",https://skills.yourlearning.ibm.com/activity/MDL-405,
+Cybersecurity,Cybersecurity Fundamentals,Cybersecurity: On the Defence,Advanced,2h 5m,4.5,"In this course, you’ll learn about the defensive side of cybersecurity, meaning organizations and their techniques and tools. You’ll discover basic strategies that organizations take to detect and prevent cyberattacks and how organizations respond when incidents occur. You’ll explore standard encryption practices used to preserve data confidentiality. You’ll also learn about threat intelligence, including its benefits and sources.","Describe the financial impacts of cybercrime on organizations
+Describe basic security strategy concepts
+Describe strategies that organizations can use to prevent cyberattacks
+Describe methods that organizations use to detect cyberattacks
+Run an on-demand antimalware scan on a computer by using Malwarebytes
+Describe basic concepts of cyberattack incident response
+Explain basic cryptography concepts
+Describe benefits, sources, and emerging technologies for threat intelligence
+","Learning Domain, Technical Skills - Cybersecurity, Learning Domain Primary, Cybersecurity ","English, Arabic, Brazilian Portuguese, Czech, Dutch, French, German, Hindi, Italian, Japanese, Polish, Spanish, Traditional Chinese, Turkish and Ukrainian",https://skills.yourlearning.ibm.com/activity/MDL-407,
+Cybersecurity,Cybersecurity Fundamentals,Your Future in Cybersecurity: The job Landscape,Job,1h,4.5,"Organizations recognize the key role of cybersecurity in protecting their systems, networks, and data. They are actively seeking professionals with expertise to prevent, detect, contain, and recover from cyberattacks. As a result, the demand for skilled cybersecurity professionals grows every day. In this course, you’ll learn about the cybersecurity job market and the skills that cybersecurity professionals need to be successful. You’ll also find resources and learning opportunities so you can explore more.","Identify industries in which cybersecurity professionals work
+Recognize the global demand for cybersecurity professionals in the job market
+Describe the key responsibilities and tasks of roles in the cybersecurity field
+Describe the baseline and workplace skills and knowledge that cybersecurity professionals need
+List industry-recognized cybersecurity certifications
+Identify the resources to learn more and stay up to date in the field of cybersecurity","Learning Domain, Technical Skills - Cybersecurity, Learning Domain Primary, Cybersecurity ","English, Arabic, Brazilian Portuguese, Czech, Dutch, French, German, Hindi, Italian, Japanese, Polish, Spanish, Traditional Chinese, Turkish and Ukrainian",,
+Cybersecurity,Cybersecurity Fundamentals,Network Scanning with Zenmap,Experience,50m,4.5,"Do you want to work in cybersecurity or just know more about the field? If so, you should get to know the tools that cybersecurity professionals use, including network scanners like Nmap and Zenmap.
+
+In this course, you’ll explore network scanning and practice doing it yourself using Zenmap in a simulation.","Describe network scanning
+Explain how port scanning works and why investigators use it
+Discuss vulnerability scanning and various techniques for performing it
+Describe Nmap and Zenmap
+Install Nmap
+Perform quick and intense network scans using Zenmap
+Describe the types of data that display on the Zenmap dashboard
+","Learning Domain, Technical Skills - Cybersecurity, Learning Domain Primary, Cybersecurity ","English, Arabic, Brazilian Portuguese, Czech, Dutch, French, German, Hindi, Italian, Japanese, Polish, Spanish, Traditional Chinese, Turkish and Ukrainian",https://skills.yourlearning.ibm.com/activity/MDL-276,
+Cybersecurity,,Protecting a Device with Malwarebytes,Experience,55m,4.5,"Do you want to work in cybersecurity? Or do you just want to learn more about security threats and how to protect your devices against them? Either way, you should familiarize yourself with standard cyberdefense tools such as antimalware software and virtual private networks (VPNs). One of the most well-known providers of these tools is Malwarebytes.
+
+In this course, first you’ll explore common threats to devices and networks. Next, you’ll practice using Malwarebytes cyberdefense tools in a simulation.","Describe malware, including its various types
+Explain what antimalware software is and how it works
+Describe social engineering, phishing, cookies, and eavesdropping
+Explain how virtual private networks (VPNs) work and why people use them
+Perform antimalware scans and delete malicious files using Malwarebytes
+Detect and remove adware and spyware using AdwCleaner
+Conceal a device’s online data using Privacy VPN
+Block online security threats using Browser Guard
+","Learning Domain, Technical Skills - Cybersecurity, Learning Domain Primary, Cybersecurity ","English, Arabic, Brazilian Portuguese, Czech, Dutch, French, German, Hindi, Italian, Japanese, Polish, Spanish, Traditional Chinese, Turkish and Ukrainian",https://skills.yourlearning.ibm.com/activity/MDL-277,
+Cybersecurity,IBM Partner Organisation,Introduction to Cybersecurity Tools and Cyber Attacks,Application,,,,,,,,
+Cybersecurity,IBM Partner Organisation,"Cybersecurity Roles, Processes and Operating System Security",Application,,,,,,,,
+Cybersecurity,IBM Partner Organisation,Cybersecurity Compliance Framework and System Administration,Application,,,,,,,,
+Cybersecurity,IBM Partner Organisation,Network Security and Database Vulnerabilities,Application,,,,,,,,
+Cybersecurity,IBM Partner Organisation,"Penetration Testing, Incident Response and Forensics",Application,,,,,,,,
+Cybersecurity,IBM Partner Organisation,Cyber Threat Intelligence,Application,,,,,,,,
+Cybersecurity,IBM Partner Organisation,Cybersecurity Capstone: Breach Response Case Studies,Application,,,,,,,,
+Web Development,Web Development Fundamentals,Web Development Basics,Advanced,1h 40m,4.5,"In this course, you’ll learn about basic computer functions and programming languages. You’ll get an overview of web development, including the scope of the two sides of web development: front-end and back-end. And you’ll learn about the difference between the internet and the World Wide Web.","Describe the basic functions of a computer
+Differentiate between hardware and software
+Describe the types of programming languages
+Explain how a computer reads code
+Differentiate between web design and web development
+Identify website components
+Explain the main steps in the web development process
+Differentiate between client-side and server-side processes
+Identify the focus areas and common languages for front-end development
+Identify the focus areas and common languages for back-end development
+Differentiate between the World Wide Web and the internet
+Explain how the cloud benefits web development
+","Badge Learning, Web Development Fundamentals, Learning Domain, Technical Skill-Web Development, Lightcast Skills Taxonomy, Front End (Software Engineering) Skll, Web Development Skill","English, Brazilian Portuguese, French, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-261?planId=PLAN-8749C02A78EC&sectionId=SECTION-B&planIdFromParentTab=PLAN-8749C02A78EC&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-8749C02A78EC,
+Web Development,Web Development Fundamentals,Developing Sites for the Web,Advanced,1h 40m,4.5,"In this course, you’ll learn how web developers create websites. You will learn about common web development languages including HTML, CSS, and JavaScript, and how they have evolved. You will also learn about the software development lifecycle and ways that an agile approach improves web development.","Identify the purpose of web browsers
+Describe markup languages and the challenges they can overcome
+Explain the structure, functions, and evolution of HTML
+Identify improvements that HTML5 introduced
+Explain the features and functions of CSS
+Explain the features and functions of JavaScript
+Identify the ways JavaScript interacts with CSS and HTML
+Identify phases in the software development lifecycle (SDLC)
+Differentiate between waterfall and agile approaches to development
+Highlight the scrum framework","Badge Learning, Web Development Fundamentals, Learning Domain, Technical Skill-Web Development, Lightcast Skills Taxonomy, Cascading Style Sheets (CSS) Skill, HyperText Markup Language (HTML) Skill, Scrum (Software Development) Skill, Software Development Life Cycle Skill, JavaScript (Programming Language) Skill, Systems Development Life Cycle Skill, Agile Methodology Skill, HTML5 Skill","English, Brazilian Portuguese, French, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-262,
+Web Development,Web Development Fundamentals,Introduction to HTML and CSS,Advanced,2h,4.5,"In this course, you will learn about the basic structure of an HTML document and common elements to build a web page. You’ll explore HTML attributes and understand the importance of organizing information. In addition, you will gain insight into CSS and explore the CSS box model. Finally, you will learn about the best practices web developers use for writing HTML and CSS.","Describe how web developers use HTML elements to build a web page
+Identify and explain common HTML elements
+Define HTML attributes and uses
+Identify and explain common attributes
+Identify coding organization techniques that benefit web developers and users
+Describe methods and techniques to apply CSS to HTML
+Describe the CSS box model and the components of CSS boxes
+Describe best practices for writing HTML and CSS
+Describe key features of an integrated development environment (IDE) that help improve workflow for web developers","Badge Learning, Web Development Fundamentals, Learning Domain, Technical Skills-Web Development, Lightcast Skills Taxonomy, Cascading Style Sheets (CSS) Skills, HyperTextMarkup Language (HTML) Skill, Workflow Management Skill","English, Brazilian Portuguese, French, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-263?planId=PLAN-8749C02A78EC&sectionId=SECTION-B&planIdFromParentTab=PLAN-8749C02A78EC&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-8749C02A78EC,
+Web Development,Web Development Fundamentals,Bringing Websites to Life with JavaScript,Advanced,2h,4.5,"In this course, you’ll learn how web developers use JavaScript with HTML to create dynamic websites. You’ll examine JavaScript syntax and how variables, functions, expressions, and events operate in JavaScript code. You’ll explore how web developers use data in websites and MySQL code to work with the data. You’ll also learn about Node.js and the advantages of using frameworks and libraries.","Explain JavaScript syntax
+Identify techniques web developers use to include JavaScript in HTML
+Compare and contrast different programming models
+Explain how to use code objects
+Explain how variables, functions, expressions, operators, and events operate in JavaScript code for dynamic websites
+Define common types of data
+Identify the four primary database functions
+Recognize simple MySQL syntax to create a database and work with data
+Explain the purpose and function of Node.js","Badge Learning, Web Development Fundamentals, Learning Domain, Technical Skills-Web Development, Lightcast Skills Taxonomy, Web Development Skill, Cascading Style Sheets (CSS) Skill, HyperTextMarkup Language (HTML) Skill, JavaScript (Programming Language) Skill","English, Brazilian Portuguese, French, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-264?planId=PLAN-8749C02A78EC&sectionId=SECTION-B&planIdFromParentTab=PLAN-8749C02A78EC&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-8749C02A78EC,"The basic functions of a computer and the layers of computer architecture
+The structure of HTML, CSS, and JavaScript"
+Web Development,Web Development Fundamentals,Website Testing and Deployment,Advanced,2h 10m,4,"In this course, you will explore how developers thoroughly test website code before enabling public access to their sites. You’ll discover how teams use version control systems to speed up the delivery of new features and functionality to their users. And you’ll learn about the tools and processes developers use to streamline and simplify the deployment of their websites to their servers or the cloud.
+","Identify different types of website testing and the areas to test
+Describe the advantages of automated testing
+Explain version control systems for web development
+Identify the steps to publish a website
+Differentiate between continuous delivery and continuous deployment
+Describe the purpose, benefits, and workflow process in the DevOps lifecycle
+Describe responsive design and its importance
+Explain delivering web content as a website and delivering web content in a web application
+Differentiate between containers and virtual machines
+Identify methods and common tools to test and automate the deployment of websites
+Explain cloud computing for web development and deployment
+Explain containerization for website development and deployment
+","Badge Learning, Web Development Fundamentals, Learning Domain, Technical Skills-Web Development, Lightcast Skills Taxonomy, DevOps Skill, Web Development Skill, Workflow Management Skill","English, Brazilian Portuguese, French, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-265,
+Web Development,Web Development Fundamentals,Development an Interactive Task List Web Page,Advanced,1h 50m,4.5,"In this course, you’ll practice building an interactive task list web page in a series of simulations. You’ll develop code files that lay out the structure of a web page with HTML, add styles with CSS, develop interactions with JavaScript, and then test that your web page functions as expected.","Identify the tools and skills to develop a web page
+Review requirements and a wireframe diagram to help inform web development
+Use Visual Studio Code (VS Code) as an integrated development environment (IDE) tool to set up project files and develop a web page
+Create a basic HTML structure to lay out a web page
+Use CSS to add styles to a web page
+Use JavaScript to create interactive elements on a web page   
+Perform a simple functional test on a web page","Badge Learning, Web Development Fundamentals, Learning Domain, Technical Skills-Web Development, Lightcast Skills Taxonomy, Cascading Style Sheets (CSS) Skills, HyperTextMarkup Language (HTML) Skill, JavaScript (Promgramming Language) Skill, Wireframing Skill","English, Brazilian Portuguese, French, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-266?planId=PLAN-8749C02A78EC&sectionId=SECTION-B&planIdFromParentTab=PLAN-8749C02A78EC&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-8749C02A78EC,
+Web Development,Web Development Fundamentals,Your Future in Web Development: The Job Landscape,Job,1h,4.5,"In this course, you’ll learn about the web development job market, the skills web developers need to be successful, and how web developers interact with other job roles on a team. You’ll also find resources and learning opportunities so you can explore more.","Identify industries in which web developers work
+Recognize the global demand for web development professionals in the job market
+Recognize the future of the web development field
+Identify common roles and specialties in the web development field
+Explain the primary responsibilities of different web development roles
+Identify the skills that web developers need
+Distinguish between different roles on a web development team
+Identify resources to learn more and stay up to date in the field of web development","Badge Learning, Learning Domain, Web Development Fundamentals, Workplace Skills- Workforce readiness, Technical Skills- Web Development","English, Brazilian Portuguese, French, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-267?planId=PLAN-8749C02A78EC&sectionId=SECTION-B&planIdFromParentTab=PLAN-8749C02A78EC&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-8749C02A78EC,
+Web Development,IBM Partner Organisation,Front-End Web Development,Application,,,,,,,,
+Web Development,IBM Partner Organisation,Back-End Development,Application,,,,,,,,
+Web Development,IBM Partner Organisation,Responsive Web Page Development,Application,,,,,,,,
+Web Development,IBM Partner Organisation,Interactive Front-End Development,Application,,,,,,,,
+Web Development,IBM Partner Organisation,Integration of Databases,Application,,,,,,,,
+Web Development,IBM Partner Organisation,Web Application Testing and Deployment,Application,,,,,,,,
+IT Project Management,Project Management Fundamentals,Project Management Fundamentals,Fundamental,3h 30m,4.5,This course introduces you to the basic principles of project management and what it takes to be a successful project manager.,"Common project management terms
+The value of project management
+Project management approaches: Waterfall, Agile, and Hybrid
+The role, overall responsibilities, and competencies of a project manager
+The purpose of the phases of a project: Initiate and Plan, Execute, and Close
+The key tasks that a project manager performs in each project phase
+The overall job market and common industry certifications to consider in the project management field","Badge Learning, 000 All Digital Credentials, Project Management Fundamentals, Fundamentals, All Fundamentals, Learning Domain, Technical Skills - IT Project Management, Lightcast Skills Taxonomy, Agile Methodology Skill",,https://skills.yourlearning.ibm.com/activity/ILB-DNRVRVRGKDNQPQ9X,
+IT Project Management,Agile Explorer,A Taste of Agile,Beginners,2h 50m,4.5,"A Taste of Agile is designed to provide a basic awareness of Agile work methods, and how you can use them to change the way you work in academics, on the job, or even in your personal life. The course provides a foundational understanding of the values, principles, practices, and patterns of Agile, and the team dynamics that create success.
+
+A Taste of Agile is appropriate for everyone: students, workforce-facing team members, executives, managers, and practitioners.",,"Badge Learning, Agile Explorer, Learning Domain, Workplace Skills- Workforce readiness, Lightcast Skills Taxonomy, Agile Methodology Skill","English, Spanish, Brazilian Portuguese, Hindi, Japanese, French, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/ILB-GYEGEDYJNEVY1Y3V?planId=PLAN-F8CBF9ECCA49&sectionId=SECTION-B&planIdFromParentTab=PLAN-F8CBF9ECCA49&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-F8CBF9ECCA49,
+IT Project Management,Agile Explorer,Agile Operations Fundamentals,Beginners,2h 5m,4.5,"Agile Operations Fundamentals is designed to help operational teams develop the foundational skills to plan, structure, deliver, monitor, and improve on operational activities and processes. These skills can be used in school, on the job, and in your personal life. This course builds on the foundational awareness from A Taste of Agile, through an operations pattern that provides guidance on recommended practices, tools, and techniques that align to the core Agile values and principles.
+
+Agile Operations Fundamentals is appropriate for everyone: students, workforce-facing team members, executives, managers, and practitioners.",,"Badge Learning, Agile Explorer, Learning Domain, Workplace Skills- Workforce readiness, Lightcast Skills Taxonomy, Agile Methodology Skill","English, Spanish, Brazilian Portuguese, Hindi, Japanese, French, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/ILB-RKEVEWMRKEGN7JAB?planId=PLAN-F8CBF9ECCA49&sectionId=SECTION-B&planIdFromParentTab=PLAN-F8CBF9ECCA49&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-F8CBF9ECCA49,
+IT Project Management,Agile Explorer,Agile Program Fundamentals,Beginners,2h 10m,4.5,"Agile Program Fundamentals is designed to help project teams develop the foundational skills to plan, structure, and deliver on programs and projects incrementally and iteratively. This course builds on the foundational awareness from A Taste of Agile and Agile Operations Fundamentals. You will learn the project pattern and receive guidance on recommended practices, tools, and techniques that align to the core Agile values and principles.",,"Badge Learning, Agile Explorer, Learning Domain, Workplace Skills- Workforce readiness, Lightcast Skills Taxonomy, Agile Methodology Skill, Operations Skill","English, Spanish, Brazilian Portuguese, Hindi, Japanese, French, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/ILB-JYKQKJZGVPVZ3QNZ?planId=PLAN-F8CBF9ECCA49&sectionId=SECTION-B&planIdFromParentTab=PLAN-F8CBF9ECCA49&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-F8CBF9ECCA49,
+IT Project Management,Information Technology Fundamentals,Computer Basics,Advanced,1h 20m,4.5,"In this course, you’ll learn key concepts from computer parts and networking to security, support, and user identification. Discover the core computing area of the field of information technology (IT).","Describe what a computer is
+Identify the parts of a computer
+Compare and contrast local and cloud computing
+Explain the relationship between computer hardware and software
+Describe user identification and security
+","Badge Learning, Information Technology Fundamentals, Learning Domain, Technical Skills-Information Technology, Lightcast Skills Taxonomy, Computer Hardware Skill, Information Technology Skill",English,https://skills.yourlearning.ibm.com/activity/MDL-235?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+IT Project Management,Information Technology Fundamentals,Computer Networking Basics: How Computers Communicates,Advanced,1h 15m,4.5,"In this course, you’ll learn about the ways that computer networking touches areas of everyday life. You’ll examine how network connections help you send and receive information. You’ll explore different types of networks that cover personal, local, and wide areas, and you’ll discover the importance of network security.
+","Explain computer networking
+Recognize the differences between personal, local, and wide-area networks
+Explain the use of data to enable the internet to function as a network
+Recognize the importance of network security
+Describe the purpose of network addresses
+Describe the ways that applications use network communications","Badge Learning, Information Technology Fundamentals, Learning Domain, Technical Skills-Information Technology",English,https://skills.yourlearning.ibm.com/activity/MDL-236?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+IT Project Management,Information Technology Fundamentals,Computing from Past to Present,Advanced,2h 15m,4.5,"In this course, you’ll learn about milestone events in the history of computing. You will discover why key concepts like accessibility and security have become essential qualities of information technology.
+","Describe milestone changes in computing over time
+Compare and contrast programs and modern applications
+Recognize the changes that the cloud is making to modern computing
+Define accessibility
+Recognize computer security fundamentals","Badge Learning, Information Technology Fundamental, Learning Domain, Technical Skills-Information Technology, Lightcast Skills Taxonomy, Information Technology Skills",English,https://skills.yourlearning.ibm.com/activity/MDL-237?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+IT Project Management,Information Technology Fundamentals,Security Basics,Advanced,1h 15m,4.5,"In this course, you’ll learn about threats to computer security and ways to keep computer systems and users safe. You will discover the differences between threats, such as hacking, malware, and viruses, and vulnerabilities, such as bugs and buffer overflows. You will explore key security measures to protect computer hardware, software, and networks.
+","Recognize common ways to make hardware secure
+Compare and contrast authentication and authorization
+Explain common threats on computer security
+Identify ways information technology (IT) professionals protect users and systems
+","Badge Learning, Information Technology Fundamentals, Learning Domain, Technical Skills-Cybersecurity, Technical Skills-Information Technology,  Learning Domain Primary, Cybersecurity, Lightcast Skills Taxonomy, Computer Hardware Skill, Information Technology Skill, Vulnerability Skill",English,https://skills.yourlearning.ibm.com/activity/MDL-238?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+IT Project Management,Information Technology Fundamentals,Support Basics,Advanced,1h 10m,4.5,"In this course, you’ll explore the intriguing world of troubleshooting. You will learn key ways to hone in on the causes of problems that don’t have an obvious solution.","Define troubleshooting
+Explain basic troubleshooting methodology
+Identify key disciplines when creating documentation for support tasks
+Explain methods and best practices for effective remote troubleshooting","Badge Learning, Information Technology Fundamentals, Learning Domain, Technical Skills-Information Technology, Learning Domain Primary, IT Support, Lightcast Skills Taxonomy, Troubleshooting (Problem Solving) Skills",English,https://skills.yourlearning.ibm.com/activity/MDL-239?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+IT Project Management,Information Technology Fundamentals,"Troubleshooting for Hardware, Networks and Software",Advanced,1h 5m,4.5,"In this course, you’ll learn the troubleshooting techniques that IT professionals rely upon to resolve difficult issues. You’ll explore established approaches to fixing hardware, networking, and software issues. You’ll discover the steps to take when the answer is not immediately obvious.
+","Explain techniques for troubleshooting hardware issues
+Explain patterns of exploration for troubleshooting network issues
+Explain techniques for troubleshooting software issues","Badge Learning, Information Technology Fundamentals, Learning Domain, Technical skills-Information Technolgy, Learning Domain Primary, IT Support, Lightcast Skills Taxonomy, Troubleshooting (Problem Solving) Skill, Hardware Troubleshooting Skill",English,https://skills.yourlearning.ibm.com/activity/MDL-240?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+IT Project Management,Information Technology Fundamentals,Support a customer with a Network Issue,Advanced,1h 35m,4.5,"In this course, you’ll practice supporting a customer by troubleshooting a network issue in a series of simulations. You’ll get a clear description of the problem, create a theory of probable cause, resolve the issue, and close the support engagement.","Demonstrate best practices for communicating with a customer who has a support issue
+Review customer information to develop a theory about a customer’s issue
+Use the Google Chrome Remote Desktop remote connection tool to view and work on a customer’s computer
+Troubleshoot and fix a network connection issue so the customer’s devices will connect
+Verify resolution and close the customer’s support request","Badge Learning, Information Technology Fundamentals, Learning Domain, Technical Skills-Customer Service, Technical Skills-Information Technology, Learning Domain Primary, IT Support, Lightcast Skills Taxonomy, Troubleshooting (Problem Solving) Skill, Communications Skill",English,https://skills.yourlearning.ibm.com/activity/MDL-241?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+IT Project Management,Information Technology Fundamentals,Your Future in IT Support: The Job Landscape,Job,50m,4.5,"In this course, you’ll learn about the IT support job market and projections, the responsibilities and skill sets of an IT professional, and resources and learning opportunities that you can explore.","Recognize the global demand for IT support professionals in the job market
+Recognize the future of the IT support field
+Identify industries in which IT support professionals work
+Explain the primary responsibilities of different IT support roles
+Identify the basic tools to use in IT support
+Describe the skills that IT support professionals need
+Identify resources to learn more and stay up to date in the field of IT support
+","Badge Learning, Information Technology Fundamentals, Learning Domain, Workplace Skills-Workforce Readiness, Technical Skills-Information Technology, Learning Domain Primary, IT Support, Lightcast Skills Taxonomy, Technical Support Skills",English,https://skills.yourlearning.ibm.com/activity/MDL-242?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+IT Project Management,IBM Partner Organisation,Introduction to Project Management,Application,,,,,,,,
+IT Project Management,IBM Partner Organisation,Information Technology (IT) Fundamentals for Everyone,Application,,,,,,,,
+IT Project Management,IBM Partner Organisation,Introduction to Software Engineering,Application,,,,,,,,
+Information Technology,Agile Explorer,A Taste of Agile,Beginners,2h 50m,4.5,"A Taste of Agile is designed to provide a basic awareness of Agile work methods, and how you can use them to change the way you work in academics, on the job, or even in your personal life. The course provides a foundational understanding of the values, principles, practices, and patterns of Agile, and the team dynamics that create success.
+
+A Taste of Agile is appropriate for everyone: students, workforce-facing team members, executives, managers, and practitioners.",,"Badge Learning, Agile Explorer, Learning Domain, Workplace Skills- Workforce readiness, Lightcast Skills Taxonomy, Agile Methodology Skill","English, Spanish, Brazilian Portuguese, Hindi, Japanese, French, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/ILB-GYEGEDYJNEVY1Y3V?planId=PLAN-F8CBF9ECCA49&sectionId=SECTION-B&planIdFromParentTab=PLAN-F8CBF9ECCA49&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-F8CBF9ECCA49,
+Information Technology,Agile Explorer,Agile Operations Fundamentals,Beginners,2h 5m,4.5,"Agile Operations Fundamentals is designed to help operational teams develop the foundational skills to plan, structure, deliver, monitor, and improve on operational activities and processes. These skills can be used in school, on the job, and in your personal life. This course builds on the foundational awareness from A Taste of Agile, through an operations pattern that provides guidance on recommended practices, tools, and techniques that align to the core Agile values and principles.
+
+Agile Operations Fundamentals is appropriate for everyone: students, workforce-facing team members, executives, managers, and practitioners.",,"Badge Learning, Agile Explorer, Learning Domain, Workplace Skills- Workforce readiness, Lightcast Skills Taxonomy, Agile Methodology Skill","English, Spanish, Brazilian Portuguese, Hindi, Japanese, French, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/ILB-RKEVEWMRKEGN7JAB?planId=PLAN-F8CBF9ECCA49&sectionId=SECTION-B&planIdFromParentTab=PLAN-F8CBF9ECCA49&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-F8CBF9ECCA49,
+Information Technology,Agile Explorer,Agile Program Fundamentals,Beginners,2h 10m,4.5,"Agile Program Fundamentals is designed to help project teams develop the foundational skills to plan, structure, and deliver on programs and projects incrementally and iteratively. This course builds on the foundational awareness from A Taste of Agile and Agile Operations Fundamentals. You will learn the project pattern and receive guidance on recommended practices, tools, and techniques that align to the core Agile values and principles.",,"Badge Learning, Agile Explorer, Learning Domain, Workplace Skills- Workforce readiness, Lightcast Skills Taxonomy, Agile Methodology Skill, Operations Skill","English, Spanish, Brazilian Portuguese, Hindi, Japanese, French, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/ILB-JYKQKJZGVPVZ3QNZ?planId=PLAN-F8CBF9ECCA49&sectionId=SECTION-B&planIdFromParentTab=PLAN-F8CBF9ECCA49&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-F8CBF9ECCA49,
+Information Technology,Information Technology Fundamentals,Computer Basics,Advanced,1h 20m,4.5,"In this course, you’ll learn key concepts from computer parts and networking to security, support, and user identification. Discover the core computing area of the field of information technology (IT).","Describe what a computer is
+Identify the parts of a computer
+Compare and contrast local and cloud computing
+Explain the relationship between computer hardware and software
+Describe user identification and security
+","Badge Learning, Information Technology Fundamentals, Learning Domain, Technical Skills-Information Technology, Lightcast Skills Taxonomy, Computer Hardware Skill, Information Technology Skill",English,https://skills.yourlearning.ibm.com/activity/MDL-235?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+Information Technology,Information Technology Fundamentals,Computer Networking Basics: How Computers Communicates,Advanced,1h 15m,4.5,"In this course, you’ll learn about the ways that computer networking touches areas of everyday life. You’ll examine how network connections help you send and receive information. You’ll explore different types of networks that cover personal, local, and wide areas, and you’ll discover the importance of network security.
+","Explain computer networking
+Recognize the differences between personal, local, and wide-area networks
+Explain the use of data to enable the internet to function as a network
+Recognize the importance of network security
+Describe the purpose of network addresses
+Describe the ways that applications use network communications","Badge Learning, Information Technology Fundamentals, Learning Domain, Technical Skills-Information Technology",English,https://skills.yourlearning.ibm.com/activity/MDL-236?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+Information Technology,Information Technology Fundamentals,Computing from Past to Present,Advanced,2h 15m,4.5,"In this course, you’ll learn about milestone events in the history of computing. You will discover why key concepts like accessibility and security have become essential qualities of information technology.
+","Describe milestone changes in computing over time
+Compare and contrast programs and modern applications
+Recognize the changes that the cloud is making to modern computing
+Define accessibility
+Recognize computer security fundamentals","Badge Learning, Information Technology Fundamental, Learning Domain, Technical Skills-Information Technology, Lightcast Skills Taxonomy, Information Technology Skills",English,https://skills.yourlearning.ibm.com/activity/MDL-237?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+Information Technology,Information Technology Fundamentals,Security Basics,Advanced,1h 15m,4.5,"In this course, you’ll learn about threats to computer security and ways to keep computer systems and users safe. You will discover the differences between threats, such as hacking, malware, and viruses, and vulnerabilities, such as bugs and buffer overflows. You will explore key security measures to protect computer hardware, software, and networks.
+","Recognize common ways to make hardware secure
+Compare and contrast authentication and authorization
+Explain common threats on computer security
+Identify ways information technology (IT) professionals protect users and systems
+","Badge Learning, Information Technology Fundamentals, Learning Domain, Technical Skills-Cybersecurity, Technical Skills-Information Technology,  Learning Domain Primary, Cybersecurity, Lightcast Skills Taxonomy, Computer Hardware Skill, Information Technology Skill, Vulnerability Skill",English,https://skills.yourlearning.ibm.com/activity/MDL-238?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+Information Technology,Information Technology Fundamentals,Support Basics,Advanced,1h 10m,4.5,"In this course, you’ll explore the intriguing world of troubleshooting. You will learn key ways to hone in on the causes of problems that don’t have an obvious solution.","Define troubleshooting
+Explain basic troubleshooting methodology
+Identify key disciplines when creating documentation for support tasks
+Explain methods and best practices for effective remote troubleshooting","Badge Learning, Information Technology Fundamentals, Learning Domain, Technical Skills-Information Technology, Learning Domain Primary, IT Support, Lightcast Skills Taxonomy, Troubleshooting (Problem Solving) Skills",English,https://skills.yourlearning.ibm.com/activity/MDL-239?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+Information Technology,Information Technology Fundamentals,"Troubleshooting for Hardware, Networks and Software",Advanced,1h 5m,4.5,"In this course, you’ll learn the troubleshooting techniques that IT professionals rely upon to resolve difficult issues. You’ll explore established approaches to fixing hardware, networking, and software issues. You’ll discover the steps to take when the answer is not immediately obvious.
+","Explain techniques for troubleshooting hardware issues
+Explain patterns of exploration for troubleshooting network issues
+Explain techniques for troubleshooting software issues","Badge Learning, Information Technology Fundamentals, Learning Domain, Technical skills-Information Technolgy, Learning Domain Primary, IT Support, Lightcast Skills Taxonomy, Troubleshooting (Problem Solving) Skill, Hardware Troubleshooting Skill",English,https://skills.yourlearning.ibm.com/activity/MDL-240?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+Information Technology,Information Technology Fundamentals,Support a customer with a Network Issue,Advanced,1h 35m,4.5,"In this course, you’ll practice supporting a customer by troubleshooting a network issue in a series of simulations. You’ll get a clear description of the problem, create a theory of probable cause, resolve the issue, and close the support engagement.","Demonstrate best practices for communicating with a customer who has a support issue
+Review customer information to develop a theory about a customer’s issue
+Use the Google Chrome Remote Desktop remote connection tool to view and work on a customer’s computer
+Troubleshoot and fix a network connection issue so the customer’s devices will connect
+Verify resolution and close the customer’s support request","Badge Learning, Information Technology Fundamentals, Learning Domain, Technical Skills-Customer Service, Technical Skills-Information Technology, Learning Domain Primary, IT Support, Lightcast Skills Taxonomy, Troubleshooting (Problem Solving) Skill, Communications Skill",English,https://skills.yourlearning.ibm.com/activity/MDL-241?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+Information Technology,Information Technology Fundamentals,Your Future in IT Support: The Job Landscape,Job,50m,4.5,"In this course, you’ll learn about the IT support job market and projections, the responsibilities and skill sets of an IT professional, and resources and learning opportunities that you can explore.","Recognize the global demand for IT support professionals in the job market
+Recognize the future of the IT support field
+Identify industries in which IT support professionals work
+Explain the primary responsibilities of different IT support roles
+Identify the basic tools to use in IT support
+Describe the skills that IT support professionals need
+Identify resources to learn more and stay up to date in the field of IT support
+","Badge Learning, Information Technology Fundamentals, Learning Domain, Workplace Skills-Workforce Readiness, Technical Skills-Information Technology, Learning Domain Primary, IT Support, Lightcast Skills Taxonomy, Technical Support Skills",English,https://skills.yourlearning.ibm.com/activity/MDL-242?planId=PLAN-3E2A749669E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3E2A749669E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3E2A749669E2,
+Information Technology,IBM Partner Organisation,Hardware Components and Troubleshooting,Application,,,,,,,,
+Information Technology,IBM Partner Organisation,Network Protocol and Configuration,Application,,,,,,,,
+Information Technology,IBM Partner Organisation,Software and Operating Systems,Application,,,,,,,,
+Information Technology,IBM Partner Organisation,Cloud Computing and Virtualisation,Application,,,,,,,,
+Information Technology,IBM Partner Organisation,IT Security and Compliance,Application,,,,,,,,
+UX Design,User Experience Design Fundamentals,Introduction UX Design,Advanced,1h 50m,4,"In this course, you’ll get an overview of user experience (UX) design. You’ll learn about some of the essential qualities that make a great UX designer stand out from the crowd. You’ll discover user-centered design (UCD), ways to design for diversity, and the importance of adaptive and responsive designs in UX design. You’ll also learn about a case study in UX design, including its components and the step-by-step process to create it. Finally, you’ll review an example case study that defines project requirements.","Explain the purpose, key aspects, value, and fundamental concepts that contribute to user experience (UX) design
+Differentiate between the focus of user interface (UI) design and UX design
+Explain the steps in the user-centered design (UCD) process
+Identify the skills and qualities of a great UX designer that help in designing inclusive and responsive user experiences
+Differentiate between adaptive and responsive designs
+Explain what a case study is in UX design and the steps to create it
+Review an example UX design case study to make conclusions about defining requirements
+","Badge Learning, User Experience Design Fundamentals, Learning Domain, Technical Skills-User Experience Design (UX Design), Learning Domain Primary, UX Design","English, Brazilian Portuguese, French, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-365?planId=PLAN-3749C72117E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3749C72117E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3749C72117E2,
+UX Design,User Experience Design Fundamentals,Conducting UX Rsearch ,Advanced,2h,4.5,"In this course, you’ll learn the importance of research in creating a user-centered design. You’ll explore various user experience (UX) research methods and techniques. You’ll also learn the importance of user personas in UX design and the ways to create them based on the research conducted and the data collected. Furthermore, you’ll learn the ways to conduct a competitive and comparative analysis by evaluating and comparing a product or service against its competitors in the market. Finally, you’ll review an example UX case study that conducted research and created user personas.","Describe the value of user research in UX design
+Explain the purpose and importance of hypotheses in UX research
+Identify the methods and techniques used to conduct UX research
+Describe the purpose and importance of data synthesis
+Explain the various frameworks to synthesize UX research data
+Explain the purpose, importance, and key components of user personas
+Describe the process of creating a user persona
+Describe the process of utilizing user personas throughout the UX design process
+Explain competitive and comparative analysis
+Identify the steps and common frameworks to conduct a competitive and comparative analysis
+Review an example UX case study to make conclusions about researching users, creating user personas, and researching competitors","Badge Learning, User Experience Design Fundamentals, Learning Domain, Technical Skills-User Experience Design (UX Design), Learning Domain Primary, UX Design","English, Brazilian Portuguese, French, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-367?planId=PLAN-3749C72117E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3749C72117E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3749C72117E2,
+UX Design,User Experience Design Fundamentals,Building a Story-based Design,Advanced,2h,4,"In this course, you’ll discover how user stories serve as an effective tool that captures a user’s needs, pain points, and preferences in the UX design process. You’ll learn that user stories serve as a foundational element for user journeys and user flows, and ultimately are converted into solution sketches. Finally, you’ll review an example UX design case study to evaluate user stories, user journey, user flows, and solution sketches for a plant-selling e-commerce website.","Explain user stories and their importance in creating user-centered design
+Identify the key components and format of a user story
+Identify the steps to create a user story with the help of user personas
+Explain a user journey and its importance in UX design
+Explain a user flow and its application in UX design
+Describe a task flow
+Identify the steps to combine user journeys and user flows to enhance UX design
+Explain the purpose, importance, and types of solution sketches
+Identify the steps to plan and conduct a collaborative sketching session
+Explain the agile methodology and its importance
+Review an example UX design case study to make conclusions about creating user stories, user journey, user flows, and solution sketches","Badge Learning, User Experience Design Fundamentals, Learning Domain, Technical Skills-User Experience Design (UX Design), Learning Domain Primary, UX Design","English, Brazilian Portuguese, French, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-369?planId=PLAN-3749C72117E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3749C72117E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3749C72117E2,
+UX Design,User Experience Design Fundamentals,Wireframing and Prototyping ,Advanced,2h 15m,4.5,"In this course, you’ll learn about UX writing, information architecture (IA), and sitemaps and their role in UX design. You’ll explore the wireframing process, its purpose, and the three fidelities of wireframes. Then, you’ll review an example case study that shows wireframes for a plant-selling e-commerce website. You’ll continue by learning about the key principles of user interface (UI) design and the way it enhances the accessibility of digital products. Furthermore, you’ll learn about the prototyping process and its importance in UX design. Finally, you’ll review an example case study that shows the UI design and prototypes for a plant-selling e-commerce website.","Explain user experience (UX) writing and best practices for effective UX writing
+Define information architecture (IA) and its purpose in the UX design process
+Describe a sitemap and the steps to create it
+Explain a wireframe and its purpose
+Describe the fidelities of wireframes
+Review an example UX design case study to make conclusions about creating IA, a sitemap, and wireframes
+Describe user interface (UI) design and its key principles
+Identify the goals and best practices to ensure accessibility for digital products
+Explain the techniques of prototyping
+Describe the importance of prototyping in UX design
+Review an example UX design case study to make conclusions about creating UI design and prototypes
+","Badge Learning, User Experience Design Fundamentals, Learning Domain, Technical Skills-User Experience Design (UX Design), Learning Domain Primary, UX Design","English, Brazilian Portuguese, French, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-371?planId=PLAN-3749C72117E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3749C72117E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3749C72117E2,
+UX Design,User Experience Design Fundamentals,Conducting Usability Test and Gathering Feedback,Advanced,1h 30m,4.5,"In this course, you’ll learn how UX designers evaluate their designs through usability testing. You’ll identify the different methods of conducting usability testing and the steps in the usability testing process. You’ll also learn about how designers prioritize feedback they gather from usability testing. Furthermore, you’ll find out how this feedback helps enhance designs by creating a revised prototype. Finally, you’ll review an example UX design case study that shows a test plan and tools for usability testing, the test’s analysis report, and revised prototype for a plant selling e-commerce website.","Explain the importance, goals, and essential elements of usability testing
+Differentiate between qualitative and quantitative usability testing
+Describe the various qualitative and quantitative methods of conducting usability testing
+Describe the usability testing process
+Describe heuristic evaluation
+Identify common tools for conducting usability testing
+Explain severity levels and the impact-effort matrix to prioritize issues
+Describe the process of gathering and incorporating usability feedback to finalize UX designs
+Review an example UX design case study to make conclusions about creating a test plan for usability testing, analyzing the feedback and documenting it in a report, and revising the prototype","Badge Learning, User Experience Design Fundamentals, Learning Domain, Technical Skills-User Experience Design (UX Design), Learning Domain Primary, UX Design","English, Brazilian Portuguese, French, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-373?planId=PLAN-3749C72117E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3749C72117E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3749C72117E2,
+UX Design,User Experience Design Fundamentals,Working Collaboratively with Teams on UX Design Projects,Advanced,1h 30m,4,"Effective collaboration with teams and stakeholders is key to successful UX design projects. In this course, you’ll learn about cross-functional teams and their benefits. You’ll discover the different roles on a UX design project team and the best practices to effectively collaborate with them. You’ll identify the project team’s role in making the user experience (UX) design adaptable to coding, including handing off design artifacts for development. Furthermore, you’ll learn how UX designers review a developed product. Finally, you’ll review an example case study that shows the project team members, their methods to collaborate, the design artifacts to be handed off, and the final review’s feedback for the UX design project of a plant-selling e-commerce website.","
+Describe a cross-functional team and its benefits
+Differentiate between the roles on a UX design project team
+Explain the best practices to communicate and collaborate effectively as a UX design project team
+Explain a developer’s role through the overall stages of a UX design project
+Recognize the significance of communication between the design and development teams
+Describe the design artifacts to hand off for development
+Explain the importance and criteria for reviewing and testing a developed digital product
+Explain the project standards and guidelines to document for a UX design project
+Describe the important considerations to properly manage files and versions
+Review an example UX design case study to make conclusions about listing the project team members for the project, identifying the ways to collaborate and the design artifacts to hand off to the development team, and reviewing the final digital product","Badge Learning, User Experience Design Fundamentals, Learning Domain, Technical Skills-User Experience Design (UX Design), Learning Domain Primary, UX Design","English, Brazilian Portuguese, French, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-375?planId=PLAN-3749C72117E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3749C72117E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3749C72117E2,
+UX Design,User Experience Design Fundamentals,Your Future in UX Design: The Job Landscape,Job,1h,4.5,"In this course, you’ll learn about the UX design job market, the skills UX designers need to be successful, and the responsibilities of UX designers. You’ll also discover how UX designers are different from other designers. Furthermore, you’ll find resources and learning opportunities so you can explore more.","Identify industries in which UX designers work
+Recognize the global demand for UX designers in the job market
+Recognize the future of the UX design field
+Identify common roles in the UX design field
+Explain the primary responsibilities of a UX designer
+Identify the skills that UX designers need
+Identify the resources to learn more and stay up to date in the field of UX design","Badge Learning, User Experience Design Fundamentals, Learning Domain, Technical Skills-User Experience Design (UX Design), Learning Domain Primary, UX Design","English, Brazilian Portuguese, French, Spanish",https://skills.yourlearning.ibm.com/activity/MDL-377?planId=PLAN-3749C72117E2&sectionId=SECTION-B&planIdFromParentTab=PLAN-3749C72117E2&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-3749C72117E2,
+UX Design,Agile Explorer,A Taste of Agile,Beginners,2h 50m,4.5,"A Taste of Agile is designed to provide a basic awareness of Agile work methods, and how you can use them to change the way you work in academics, on the job, or even in your personal life. The course provides a foundational understanding of the values, principles, practices, and patterns of Agile, and the team dynamics that create success.
+
+A Taste of Agile is appropriate for everyone: students, workforce-facing team members, executives, managers, and practitioners.",,"Badge Learning, Agile Explorer, Learning Domain, Workplace Skills- Workforce readiness, Lightcast Skills Taxonomy, Agile Methodology Skill","English, Spanish, Brazilian Portuguese, Hindi, Japanese, French, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/ILB-GYEGEDYJNEVY1Y3V?planId=PLAN-F8CBF9ECCA49&sectionId=SECTION-B&planIdFromParentTab=PLAN-F8CBF9ECCA49&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-F8CBF9ECCA49,
+UX Design,Agile Explorer,Agile Operations Fundamentals,Beginners,2h 5m,4.5,"Agile Operations Fundamentals is designed to help operational teams develop the foundational skills to plan, structure, deliver, monitor, and improve on operational activities and processes. These skills can be used in school, on the job, and in your personal life. This course builds on the foundational awareness from A Taste of Agile, through an operations pattern that provides guidance on recommended practices, tools, and techniques that align to the core Agile values and principles.
+
+Agile Operations Fundamentals is appropriate for everyone: students, workforce-facing team members, executives, managers, and practitioners.",,"Badge Learning, Agile Explorer, Learning Domain, Workplace Skills- Workforce readiness, Lightcast Skills Taxonomy, Agile Methodology Skill","English, Spanish, Brazilian Portuguese, Hindi, Japanese, French, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/ILB-RKEVEWMRKEGN7JAB?planId=PLAN-F8CBF9ECCA49&sectionId=SECTION-B&planIdFromParentTab=PLAN-F8CBF9ECCA49&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-F8CBF9ECCA49,
+UX Design,Agile Explorer,Agile Program Fundamentals,Beginners,2h 10m,4.5,"Agile Program Fundamentals is designed to help project teams develop the foundational skills to plan, structure, and deliver on programs and projects incrementally and iteratively. This course builds on the foundational awareness from A Taste of Agile and Agile Operations Fundamentals. You will learn the project pattern and receive guidance on recommended practices, tools, and techniques that align to the core Agile values and principles.",,"Badge Learning, Agile Explorer, Learning Domain, Workplace Skills- Workforce readiness, Lightcast Skills Taxonomy, Agile Methodology Skill, Operations Skill","English, Spanish, Brazilian Portuguese, Hindi, Japanese, French, Traditional Chinese",https://skills.yourlearning.ibm.com/activity/ILB-JYKQKJZGVPVZ3QNZ?planId=PLAN-F8CBF9ECCA49&sectionId=SECTION-B&planIdFromParentTab=PLAN-F8CBF9ECCA49&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-F8CBF9ECCA49,
+UX Design,IBM Partner Organisation,Principles of UX Review and Enhancement,Application,,,,,,,,
+UX Design,IBM Partner Organisation,User Experience Redesign,Application,,,,,,,,
+UX Design,IBM Partner Organisation,User-centered and Story-based Design,Application,,,,,,,,
+UX Design,IBM Partner Organisation,"Information Architecture, Wireframing, and Prototyping Strategies",Application,,,,,,,,
+UX Design,IBM Partner Organisation,Navigation Design for User Engagement,Application,,,,,,,,
+UX Design,IBM Partner Organisation,UI Design and Usability Testing,Application,,,,,,,,
+Could Computing,Cloud Computing Fundamentals,Introduction to Cloud Computing,Advanced,1h 15m,4.5,"In this course, you’ll learn how computers communicate and how that communication enables the cloud technologies you use every day. You’ll explore the components that cloud computing utilizes and how they work together to benefit users and businesses alike. Finally, you’ll discover some new scenarios that advancements in the cloud will offer in the future.","Describe how local servers and the internet enable computers to share information
+Define cloud computing and describe its characteristics
+Identify the problems that cloud computing solves
+Explain how technology advances impact the cloud","Badge Learning, Cloud Computing Fundamentals, Learning Domain, Technical Skills-Cloud, Learning Domain Primary, Cloud Computing",English,https://skills.yourlearning.ibm.com/activity/MDL-301?planId=PLAN-2EC3A305F2C3&sectionId=SECTION-B&planIdFromParentTab=PLAN-2EC3A305F2C3&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-2EC3A305F2C3,
+Could Computing,Explore Emerging Tech,What is Cloud Computing?,Fundamental,45m,4.5,Cloud computing involves much more than off-site servers! Learn different ways that data can be stored and managed with the newest cloud technology.,,"Badge Learning, Explore Emerging Tech, Learning Domain, Other-Emerging Technologies, Technical Skills-Clould Learning Domain Primary, Cloud Computing",English,https://skills.yourlearning.ibm.com/activity/ILB-XVZEKQPPXYNN188J?planId=PLAN-EB2D3DA31CF9&sectionId=SECTION-B&planIdFromParentTab=PLAN-EB2D3DA31CF9&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-EB2D3DA31CF9,
+Could Computing,Explore Emerging Tech,How is cloud computing used?,Fundamental,25m,4.5,"Cloud offers important benefits for corporations and their customers. Learn practical applications for cloud, and get great tips on a getting started in a cloud career.",,"Badge Learning, Explore Emerging Tech, Learning Domain, Other-Emerging Technologies, Technical Skills-Clould Learning Domain Primary, Cloud Computing",English,https://skills.yourlearning.ibm.com/activity/ILB-MKRZNDPPDGYW19ZV?planId=PLAN-EB2D3DA31CF9&sectionId=SECTION-B&planIdFromParentTab=PLAN-EB2D3DA31CF9&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-EB2D3DA31CF9,
+Could Computing,Cloud Computing Fundamentals,Understanding Cloud Computing Services,Advanced,1h 30m,4.5,"In this course, you’ll get an overview of how the cloud supports and powers new technologies like artificial intelligence (AI) and the Internet of Things (IoT). You’ll learn about the four main types of cloud service models and two types of software approaches when it comes to cloud solutions: proprietary and open source. You’ll get to explore the services offered by major cloud providers: IBM Cloud, Microsoft Azure, and Amazon Web Services. And finally, you’ll learn through some scenarios about the advantages and value businesses and individuals can expect when they use the various cloud service models.","Describe the characteristics of cloud service models, including IaaS, SaaS, PaaS, and DBaaS
+Differentiate between proprietary and open source approaches for developing cloud solutions
+Identify the services of the major cloud providers and what differentiates them
+Identify scenarios where different cloud service models are appropriate to use and recognize the value that businesses can expect from them","Badge Learning, Cloud Computing Fundamentals, Learning Domain, Technical Skills-Cloud, Learning Domain Primary, Cloud Computing",English,https://skills.yourlearning.ibm.com/activity/MDL-302?planId=PLAN-2EC3A305F2C3&sectionId=SECTION-B&planIdFromParentTab=PLAN-2EC3A305F2C3&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-2EC3A305F2C3,
+Could Computing,Cloud Computing Fundamentals,Understanding Cloud Deployment Models,Advanced,1h 15m,4.5,"In this course, you’ll learn about modern mainframe computers and how a business can host an infrastructure on premises or in the cloud. You’ll explore the steps businesses take to decide, plan, and make the move to the cloud. You’ll learn about different cloud deployment models and the advantages they bring to businesses. And finally, you’ll explore some scenarios to better understand when a public, private, or hybrid cloud deployment is appropriate for a business.","Describe the features of on-premises hosting
+Identify considerations when moving to the cloud
+Describe cloud migration plans, steps to deploy to the cloud, and solution optimization
+Explain the advantages of public, private, and hybrid cloud solutions
+Identify considerations and situations for deploying public, private, and hybrid clouds","Badge Learning, Cloud Computing Fundamentals, Learning Domain, Technical Skills-Cloud, Learning Domain Primary, Cloud Computing",English,https://skills.yourlearning.ibm.com/activity/MDL-303?planId=PLAN-2EC3A305F2C3&sectionId=SECTION-B&planIdFromParentTab=PLAN-2EC3A305F2C3&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-2EC3A305F2C3,"The basics of computer networking
+The ways cloud computing differs from traditional computing
+Different cloud service models
+Data centers and how they function in a cloud environment"
+Could Computing,Cloud Computing Fundamentals,Virtualisation on the Cloud,Advanced,2h,4.5,"In this course, you will learn about virtualization and the benefits it brings to cloud computing. You’ll explore different virtualization technologies and when to use them. You’ll discover the advantages that microservices offer to a cloud application and how microservices use APIs to communicate. In the final module, you’ll get a chance to put what you’ve learned into practice by using a simulation to create a container and run a web app inside it.","Explain the purpose and benefits of virtual resources
+Describe the purpose and function of using containers in the cloud
+Describe the purpose and function of using microservices in the cloud
+Identify key features of application programming interfaces (APIs)
+Recognize use cases and best practices for virtualization in cloud computing
+Create, install an application, and test a Docker container","Badge Learning, Cloud Computing Fundamentals, Learning Domain, Technical Skills-Cloud, Learning Domain Primary, Cloud Computing",English,https://skills.yourlearning.ibm.com/activity/MDL-304?planId=PLAN-2EC3A305F2C3&sectionId=SECTION-B&planIdFromParentTab=PLAN-2EC3A305F2C3&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-2EC3A305F2C3,
+Could Computing,Cloud Computing Fundamentals,Developing and Deploying Software in the Cloud,Advanced,1h 10m,4.5,"In this course, you will learn about developing and deploying software in the cloud. You’ll discover how cloud developers can use DevOps to quickly develop and deploy scalable, reliable, and cost-effective software. And you’ll explore different methods of cloud orchestration to manage and automate cloud applications. In the last module, you’ll get a chance to put what you’ve learned into practice by deploying a web app to the cloud in a simulation.","Describe the process to develop software in the cloud
+Explain the purpose and benefits of cloud orchestration
+Build a Docker container and deploy it to the cloud
+","Badge Learning, Cloud Computing Fundamentals, Learning Domain, Technical Skills-Cloud, Learning Domain Primary, Cloud Computing",English,https://skills.yourlearning.ibm.com/activity/MDL-305?planId=PLAN-2EC3A305F2C3&sectionId=SECTION-B&planIdFromParentTab=PLAN-2EC3A305F2C3&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-2EC3A305F2C3,
+Could Computing,Cloud Computing Fundamentals,Introduction to Data Management and Security in the Cloud,Advanced,2h,4.5,"In this course, you will learn about the importance of cloud data security. You'll learn ways to identify vulnerabilities in cloud data security and describe the essential features of identity and access management (IAM). You'll explore the delivery of databases using the cloud with the database as a service (DBaaS) cloud model. And you'll learn about how to ensure cloud database integrity and security using data governance and data compliance. In the last module, you’ll get a chance to put what you’ve learned into practice by using a simulation to create an IBM Cloudant database and review the settings in the database.","Explain why cloud data security is important
+Identify ways to mitigate different types of vulnerabilities in cloud data security
+Describe the features of identity and access management (IAM)
+Explain database as a service (DBaaS) and the benefits that it provides
+Identify ways cloud databases support data governance and data compliance
+Create an IBM Cloudant database and review its security settings","Badge Learning, Cloud Computing Fundamentals, Learning Domain, Technical Skills-Cloud, Learning Domain Primary, Cloud Computing",English,https://skills.yourlearning.ibm.com/activity/MDL-306?planId=PLAN-2EC3A305F2C3&sectionId=SECTION-B&planIdFromParentTab=PLAN-2EC3A305F2C3&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-2EC3A305F2C3,
+Could Computing,Cloud Computing Fundamentals,Your Future in Cloud Computing: The Job Landscape,Advanced,1h,4.5,"In this course, you’ll learn about the cloud computing job market, the skills that cloud engineers need to be successful, and how cloud engineers interact with other job roles on a team. You’ll also discover resources and learning opportunities so you can explore more.
+","Identify industries in which cloud computing professionals work
+Recognize the global demand for cloud computing professionals in the job market
+Recognize the future of the cloud computing field
+Identify common roles in the cloud computing field
+Explain the primary responsibilities of different job roles
+Identify the skills that cloud computing professionals need
+Identify the resources to learn more and stay up to date in the field of cloud computing
+","Badge Learning, Cloud Computing Fundamentals, Learning Domain, Technical Skills-Cloud, Learning Domain Primary, Cloud Computing, Workplace Skills- Workforce Readiness",English,https://skills.yourlearning.ibm.com/activity/MDL-307?planId=PLAN-2EC3A305F2C3&sectionId=SECTION-B&planIdFromParentTab=PLAN-2EC3A305F2C3&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-2EC3A305F2C3,
+BlockChain,Explore Emerging Tech,What is Blockchain?,Fundamental,35m,4.5,"If you’re interested in new technology, chances are you’ve heard terms like cryptocurrency, bitcoin, hyperledger, and more! All of these buzzwords refer to blockchain technologies. In this course, learn about what blockchain is and how blockchains help companies.",,"Badge Learning, Explore Emerging Tech, Learning Domain, Other-Emerging Technologies, Other-Blockchain, Technical Skills- Information Technology","English, German, French, Spanish, Portuguese (Brazil), Polish, Turkish, Korean, Traditional Chinese, Italian, Arabic, Hindi, and Japanese",https://skills.yourlearning.ibm.com/activity/ILB-NKQGKQQPRDJD4D7Q?planId=PLAN-EB2D3DA31CF9&sectionId=SECTION-F&planIdFromParentTab=PLAN-EB2D3DA31CF9&sectionIdFromParentTab=SECTION-F&planIdForChildTab=PLAN-EB2D3DA31CF9,
+BlockChain,Explore Emerging Tech,How is Blockchain used?,Fundamental,35m,4.5,"Learn more about the uses and implications of blockchain, and ways you can build your skills and knowledge in blockchain.",,"Badge Learning, Explore Emerging Tech, Learning Domain, Other-Emerging Technologies, Other-Blockchain","English, German, French, Spanish, Portuguese (Brazil), Polish, Turkish, Korean, Traditional Chinese, Italian, Arabic, Hindi, and Japanese",https://skills.yourlearning.ibm.com/activity/ILB-VQNVGKNZDGQV1R5B?planId=PLAN-EB2D3DA31CF9&sectionId=SECTION-F&planIdFromParentTab=PLAN-EB2D3DA31CF9&sectionIdFromParentTab=SECTION-F&planIdForChildTab=PLAN-EB2D3DA31CF9,
+IoT,Explore Emerging Tech,What is the Internet of Things?,Fundamental,10m,4.5,"The Internet of Things, or IoT, is the network of physical devices, vehicles, home appliances, and other everyday items embedded with sensors, enabling the objects to connect and exchange data. Learn more about IoT in this introductory topic.",,"Badge Learning, Explore Emerging Tech, Leraning Domain, Other-Emerging Technologies, Technical Skills- Information Technology","English, German, French, Spanish, Portuguese (Brazil), Polish, Turkish, Korean, Traditional Chinese, Italian, Arabic, Hindi, and Japanese",https://skills.yourlearning.ibm.com/activity/ILB-GYWXJQQEENQXA568?planId=PLAN-EB2D3DA31CF9&sectionId=SECTION-G&planIdFromParentTab=PLAN-EB2D3DA31CF9&sectionIdFromParentTab=SECTION-G&planIdForChildTab=PLAN-EB2D3DA31CF9,
+Sustainability,Fundamentals of Sustainability and Technology,"Climate, Biodiversity, and Human Society (brought to you by AXA Climate School)",Beginners,3h,4.5,"Sustainability science is rooted in the familiar concepts of conservation and ecology. Like those concepts, it explores the balance by which Earth’s resources and living things exist together. But its reach is greater. In these five courses, you’ll learn how sustainability also investigates human social groups, corporate operations and manufacturing, and even ways that buildings and bridges interact with weather and geology. Sustainability's goal? To improve human life while preserving the balance of nature.
+
+Content for the activities Preamble, The Great Climate System, The Collapse of Biodiversity, The Overexploitation of Natural Resources, and Impacts on Human Societies are provided by AXA Climate School.",,"Learning Domain, Expand your horizons- Sustainability, Learning Domain Primary, Sustainability","English, French, German,Spanish, Italian, Polish, Portuguese, simplified Chinese",https://skills.yourlearning.ibm.com/activity/MDL-285?planId=PLAN-BE0E24A0BA5C&sectionId=SECTION-B&planIdFromParentTab=PLAN-BE0E24A0BA5C&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-BE0E24A0BA5C,
+Sustainability,Fundamentals of Sustainability and Technology,Make an Impact with Data Analytics ,Beginners ,1h 30m ,4.5,"Data analytics can organize facts to reveal information about sustainability issues. With this information, organizations can predict climate risk and environmental problems, prevent disasters, solve mysteries of food production, and even help reduce deforestation.
+","Define data analytics
+Describe several sustainability applications of data analytics
+Explain how data analytics can help the food industry and its surrounding ecosystem
+Explain how data analytics can assist organizations to manage their sustainability data to reduce energy usage and implement renewable energy
+Describe ways that companies define and use environment, social, and governance (ESG) data
+Apply data analytics to a sustainability problem","Badge Learning, Fundamentals of Sustainability and Technology, Learning Domain, Expand your Horizons-Sustainability, Learning Domain Primary, Sustainability",,https://skills.yourlearning.ibm.com/activity/MDL-289?planId=PLAN-BE0E24A0BA5C&sectionId=SECTION-C&planIdFromParentTab=PLAN-BE0E24A0BA5C&sectionIdFromParentTab=SECTION-C&planIdForChildTab=PLAN-BE0E24A0BA5C,
+Sustainability,Fundamentals of Sustainability and Technology,Make an Impact with Hybrid Cloud,Beginners ,1h 30m ,4.5,"Hybrid cloud securely combines private and public storage of vast data libraries, simultaneously helping organizations control their data costs while reducing their IT’s carbon emissions.","Describe key differences between private, public, and hybrid cloud computing
+Select software development issues that hybrid cloud can address
+Identify ways that hybrid cloud can promote green computing
+Organize the steps of a green IT implementation
+Describe key sustainability applications of hybrid cloud
+","Learning Domain, Expand your horizons- Sustainability, Learning Domain Primary, Cloud Computing",,https://skills.yourlearning.ibm.com/activity/MDL-291?planId=PLAN-BE0E24A0BA5C&sectionId=SECTION-C&planIdFromParentTab=PLAN-BE0E24A0BA5C&sectionIdFromParentTab=SECTION-C&planIdForChildTab=PLAN-BE0E24A0BA5C,
+Sustainability,Fundamentals of Sustainability and Technology,Beyond Conservation to Sustainability,Beginners,1h,4.5,"Conservation—the preservation of Earth’s ecology and mineral wealth—will always be important. But sustainability takes a broader focus, using data analytics and advanced technology to consider how ecology works together with fields such as engineering, medicine, and the social sciences as a complex whole. ","Identify differences between conservation and sustainability
+Define the environmental, social, and governance (ESG) issues that help guide sustainability
+Select appropriate ways that businesses can apply ESG initiatives
+Describe key sustainability business initiatives
+Identify how advanced technologies can promote sustainability
+Practice sustainability in your own life","Badge Learning, Fundamentals of Sustainability and Technology, Learning Domain, Expand your Horizons-Sustainability, Learning Domain Primary, Sustainability",,https://skills.yourlearning.ibm.com/activity/MDL-288?planId=PLAN-BE0E24A0BA5C&sectionId=SECTION-C&planIdFromParentTab=PLAN-BE0E24A0BA5C&sectionIdFromParentTab=SECTION-C&planIdForChildTab=PLAN-BE0E24A0BA5C,
+Sustainability,Fundamentals of Sustainability and Technology,Make an Impact with Artificial Intelligence,Beginners,1h 30m,4.5,"With its ability to rapidly uncover information and make predictions using massive amounts of data, AI is revolutionizing ways that organizations can implement sustainability solutions. Its capabilities range from predicting energy demands and monitoring bridge safety to protecting the oceans and the world’s food supply. 
+","Define AI
+Describe several types of AI
+Describe several sustainability applications of AI
+Explain how AI can see and analyze the unseen
+Explain how AI can help businesses address sustainability goals and climate risk
+Identify with the personal experience of working on an AI sustainability project
+Apply AI to a sustainability problem","Badge Learning, Fundamentals of Sustainability and Technology, Learning Domain, Technical Skills-Artificial Intelligence, Expand your horizons-sustainability, Learning Domain Primary, Artificial Intelligence",,https://skills.yourlearning.ibm.com/activity/MDL-290?planId=PLAN-BE0E24A0BA5C&sectionId=SECTION-C&planIdFromParentTab=PLAN-BE0E24A0BA5C&sectionIdFromParentTab=SECTION-C&planIdForChildTab=PLAN-BE0E24A0BA5C,
