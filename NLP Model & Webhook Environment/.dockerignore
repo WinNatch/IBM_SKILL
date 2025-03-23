@@ -1,0 +1,10 @@
+.git/
+.gitignore
+*.pyc
+*.pyo
+*.log
+*.DS_Store
+node_modules/
+data/
+models/
+*.whl

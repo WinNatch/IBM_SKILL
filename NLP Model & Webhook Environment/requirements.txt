@@ -1,0 +1,10 @@
+flask
+requests
+gunicorn
+pandas
+numpy
+nltk
+sentence-transformers
+scikit-learn
+torch
+psutil
